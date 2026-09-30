@@ -4,3 +4,4 @@ out/
 .playwright-cli/
 .vercel/
 *.tsbuildinfo
+.env*
