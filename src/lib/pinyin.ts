@@ -1,0 +1,1 @@
+export function normalizePinyin(value:string){return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ü/g,'v').replace(/Ü/g,'V').toLowerCase().replace(/[’']/g,'').replace(/\s+/g,' ').trim()}

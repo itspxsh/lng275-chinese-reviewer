@@ -12,7 +12,7 @@
       3,
       4
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "ni3"
@@ -28,7 +28,7 @@
       1,
       5
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "1",
     "pdfPage": "27",
     "pinyinNum": "hao3"
@@ -60,7 +60,7 @@
       7,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "85, 89",
     "pdfPage": "111, 115",
     "pinyinNum": "yi1"
@@ -77,7 +77,7 @@
       4,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "1",
     "pdfPage": "27",
     "pinyinNum": "wu3"
@@ -93,7 +93,7 @@
       1,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "ba1"
@@ -108,7 +108,7 @@
     "lessons": [
       1
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "1",
     "pdfPage": "27",
     "pinyinNum": "da4"
@@ -128,7 +128,7 @@
       6,
       7
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "bu4"
@@ -143,7 +143,7 @@
     "lessons": [
       1
     ],
-    "pos": "名、量",
+    "pos": "名 (คำนาม)、量 (ลักษณนาม)",
     "bookPage": "1",
     "pdfPage": "27",
     "pinyinNum": "kou3"
@@ -158,7 +158,7 @@
     "lessons": [
       1
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "2",
     "pdfPage": "28",
     "pinyinNum": "bai2"
@@ -173,7 +173,7 @@
     "lessons": [
       1
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "2",
     "pdfPage": "28",
     "pinyinNum": "nv3"
@@ -188,7 +188,7 @@
     "lessons": [
       1
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "95",
     "pdfPage": "123",
     "pinyinNum": "ma3"
@@ -204,7 +204,7 @@
       2,
       5
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "14",
     "pdfPage": "40",
     "pinyinNum": "mang2"
@@ -221,7 +221,7 @@
       3,
       5
     ],
-    "pos": "助",
+    "pos": "助 (คำช่วย)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "ma5"
@@ -237,7 +237,7 @@
       2,
       5
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "hen3"
@@ -254,7 +254,7 @@
       3,
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "han4 yu3"
@@ -270,7 +270,7 @@
       2,
       6
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "nan2"
@@ -287,7 +287,7 @@
       5,
       6
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "tai4"
@@ -303,7 +303,7 @@
       2,
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "ba4 ba5"
@@ -318,7 +318,7 @@
     "lessons": [
       2
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "ma1 ma5"
@@ -333,7 +333,7 @@
     "lessons": [
       2
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "ta1"
@@ -348,7 +348,7 @@
     "lessons": [
       2
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "ta1"
@@ -363,7 +363,7 @@
     "lessons": [
       2
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "nan2"
@@ -378,7 +378,7 @@
     "lessons": [
       2
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "ge1 ge5"
@@ -393,7 +393,7 @@
     "lessons": [
       2
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "di4 di5"
@@ -408,7 +408,7 @@
     "lessons": [
       2
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "15",
     "pdfPage": "41",
     "pinyinNum": "mei4 mei5"
@@ -423,7 +423,7 @@
     "lessons": [
       3
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "xue2"
@@ -438,7 +438,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "ying1 yu3"
@@ -453,7 +453,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "a1 la1 bo2 yu3"
@@ -468,7 +468,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "de2 yu3"
@@ -483,7 +483,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "e2 yu3"
@@ -498,7 +498,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "fa3 yu3"
@@ -513,7 +513,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "han2 guo2 yu3"
@@ -528,7 +528,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "ri4 yu3"
@@ -543,7 +543,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "xi1 ban1 ya2 yu3"
@@ -560,7 +560,7 @@
       4,
       7
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "qu4"
@@ -575,7 +575,7 @@
     "lessons": [
       3
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "dui4"
@@ -590,7 +590,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "you2 ju2"
@@ -605,7 +605,7 @@
     "lessons": [
       3
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "ji4"
@@ -620,7 +620,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "xin4"
@@ -635,7 +635,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "yin2 hang2"
@@ -650,7 +650,7 @@
     "lessons": [
       3
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "21, 22",
     "pdfPage": "47, 48",
     "pinyinNum": "qu3"
@@ -666,7 +666,7 @@
       3,
       8
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "qian2"
@@ -681,7 +681,7 @@
     "lessons": [
       3
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "22",
     "pdfPage": "48",
     "pinyinNum": "ming2 tian1"
@@ -697,7 +697,7 @@
       3,
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "23",
     "pdfPage": "49",
     "pinyinNum": "tian1"
@@ -712,7 +712,7 @@
     "lessons": [
       3
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "23",
     "pdfPage": "49",
     "pinyinNum": "jian4"
@@ -729,7 +729,7 @@
       4,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "liu4"
@@ -744,7 +744,7 @@
     "lessons": [
       3
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "qi1"
@@ -760,7 +760,7 @@
       3,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "jiu3"
@@ -789,7 +789,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "jin1 tian1"
@@ -804,7 +804,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "zuo2 tian1"
@@ -819,7 +819,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1"
@@ -834,7 +834,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 yi1"
@@ -849,7 +849,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 er4"
@@ -864,7 +864,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 san1"
@@ -879,7 +879,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 si4"
@@ -894,7 +894,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 wu3"
@@ -909,7 +909,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "32",
     "pdfPage": "58",
     "pinyinNum": "xing1 qi1 liu4"
@@ -924,7 +924,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "xing1 qi1 tian1"
@@ -939,7 +939,7 @@
     "lessons": [
       4
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "ji3"
@@ -955,7 +955,7 @@
       4,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "er4"
@@ -971,7 +971,7 @@
       4,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "san1"
@@ -986,7 +986,7 @@
     "lessons": [
       4
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "si4"
@@ -1002,7 +1002,7 @@
       4,
       7
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "nar3"
@@ -1017,7 +1017,7 @@
     "lessons": [
       4
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "nar4"
@@ -1036,7 +1036,7 @@
       7,
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "wo3"
@@ -1051,7 +1051,7 @@
     "lessons": [
       4
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "hui2"
@@ -1066,7 +1066,7 @@
     "lessons": [
       4
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "xue2 xiao4"
@@ -1081,7 +1081,7 @@
     "lessons": [
       4
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "zai4 jian4"
@@ -1096,7 +1096,7 @@
     "lessons": [
       4
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "33",
     "pdfPage": "59",
     "pinyinNum": "dui4 bu5 qi3"
@@ -1139,7 +1139,7 @@
     "lessons": [
       5
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "zhe4"
@@ -1157,7 +1157,7 @@
       7,
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "shi4"
@@ -1172,7 +1172,7 @@
     "lessons": [
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "lao3 shi1"
@@ -1187,7 +1187,7 @@
     "lessons": [
       5
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "nin2"
@@ -1202,7 +1202,7 @@
     "lessons": [
       5
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "78",
     "pdfPage": "104",
     "pinyinNum": "qing3"
@@ -1217,7 +1217,7 @@
     "lessons": [
       5
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "jin4"
@@ -1232,7 +1232,7 @@
     "lessons": [
       5
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "zuo4"
@@ -1247,7 +1247,7 @@
     "lessons": [
       5
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "he1"
@@ -1262,7 +1262,7 @@
     "lessons": [
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "cha2"
@@ -1277,7 +1277,7 @@
     "lessons": [
       5
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "xie4 xie5"
@@ -1306,7 +1306,7 @@
     "lessons": [
       5
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "ke4 qi5"
@@ -1321,7 +1321,7 @@
     "lessons": [
       5
     ],
-    "pos": "名、动",
+    "pos": "名 (คำนาม)、动 (คำกริยา)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "gong1 zuo4"
@@ -1336,7 +1336,7 @@
     "lessons": [
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "shen1 ti3"
@@ -1351,7 +1351,7 @@
     "lessons": [
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "shen1"
@@ -1367,7 +1367,7 @@
       5,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "shi2"
@@ -1382,7 +1382,7 @@
     "lessons": [
       5
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "42",
     "pdfPage": "68",
     "pinyinNum": "ri4"
@@ -1411,7 +1411,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "qing3 wen4"
@@ -1426,7 +1426,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "gui4 xing4"
@@ -1441,7 +1441,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "jiao4"
@@ -1456,7 +1456,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "ming2 zi5"
@@ -1471,7 +1471,7 @@
     "lessons": [
       6
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "na3"
@@ -1486,7 +1486,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "guo2"
@@ -1501,7 +1501,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ren2"
@@ -1516,7 +1516,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ren4 shi5"
@@ -1531,7 +1531,7 @@
     "lessons": [
       6
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "gao1 xing4"
@@ -1546,7 +1546,7 @@
     "lessons": [
       6
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ye3"
@@ -1561,7 +1561,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "xue2 xi2"
@@ -1578,7 +1578,7 @@
       7,
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "shen2 me5"
@@ -1593,7 +1593,7 @@
     "lessons": [
       6
     ],
-    "pos": "名、动",
+    "pos": "名 (คำนาม)、动 (คำกริยา)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "fa1 yin1"
@@ -1608,7 +1608,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "han4 zi4"
@@ -1623,7 +1623,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "shu1"
@@ -1638,7 +1638,7 @@
     "lessons": [
       6
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "shei2"
@@ -1653,7 +1653,7 @@
     "lessons": [
       6
     ],
-    "pos": "助",
+    "pos": "助 (คำช่วย)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "de5"
@@ -1669,7 +1669,7 @@
       6,
       7
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "na4"
@@ -1684,7 +1684,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "za2 zhi4"
@@ -1713,7 +1713,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "peng2 you5"
@@ -1728,7 +1728,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "wen4"
@@ -1743,7 +1743,7 @@
     "lessons": [
       6
     ],
-    "pos": "动、名",
+    "pos": "动 (คำกริยา)、名 (คำนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "xing4"
@@ -1758,7 +1758,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "zhong1 wen2"
@@ -1773,7 +1773,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "a1 la1 bo2 wen2"
@@ -1788,7 +1788,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "de2 wen2"
@@ -1803,7 +1803,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "e2 wen2"
@@ -1818,7 +1818,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "fa3 wen2"
@@ -1833,7 +1833,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "han2 wen2"
@@ -1848,7 +1848,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ri4 wen2"
@@ -1863,7 +1863,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "xi1 ban1 ya2 wen2"
@@ -1878,7 +1878,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ying1 wen2"
@@ -2050,7 +2050,7 @@
       7,
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "ni3"
@@ -2065,7 +2065,7 @@
     "lessons": [
       6
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "51",
     "pdfPage": "77",
     "pinyinNum": "hen3"
@@ -2082,7 +2082,7 @@
       7,
       8
     ],
-    "pos": "助",
+    "pos": "助 (คำช่วย)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "ma5"
@@ -2099,7 +2099,7 @@
       7,
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "zhe4"
@@ -2114,7 +2114,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "53",
     "pdfPage": "79",
     "pinyinNum": "lao3 shi1"
@@ -2129,7 +2129,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "zhuo1 zi5"
@@ -2144,7 +2144,7 @@
     "lessons": [
       6
     ],
-    "pos": "方位",
+    "pos": "方位 (คำบอกตำแหน่ง)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "shang4"
@@ -2159,7 +2159,7 @@
     "lessons": [
       6
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "you3"
@@ -2175,7 +2175,7 @@
       6,
       8
     ],
-    "pos": "数",
+    "pos": "数 (คำบอกจำนวน)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "liang3"
@@ -2191,7 +2191,7 @@
       6,
       7
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "ge4"
@@ -2206,7 +2206,7 @@
     "lessons": [
       6
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "you2 bao1"
@@ -2221,7 +2221,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "zhong1 wu3"
@@ -2236,7 +2236,7 @@
     "lessons": [
       7
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "chi1"
@@ -2251,7 +2251,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "fan4"
@@ -2266,7 +2266,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "shi2 tang2"
@@ -2281,7 +2281,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "man2 tou5"
@@ -2297,7 +2297,7 @@
       7,
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "yao4"
@@ -2312,7 +2312,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "mi3 fan4"
@@ -2327,7 +2327,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "wan3"
@@ -2342,7 +2342,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "ji1 dan4"
@@ -2357,7 +2357,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "tang1"
@@ -2372,7 +2372,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "pi2 jiu3"
@@ -2387,7 +2387,7 @@
     "lessons": [
       7
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "zhe4 xie1"
@@ -2402,7 +2402,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "jiao3 zi5"
@@ -2417,7 +2417,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "bao1 zi5"
@@ -2432,7 +2432,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "mian4 tiao2r"
@@ -2447,7 +2447,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "mi3"
@@ -2462,7 +2462,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "ji1"
@@ -2477,7 +2477,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "dan4"
@@ -2492,7 +2492,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "jiu3"
@@ -2507,7 +2507,7 @@
     "lessons": [
       7
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "xie1"
@@ -2522,7 +2522,7 @@
     "lessons": [
       7
     ],
-    "pos": "数量",
+    "pos": "数量 (คำบอกจำนวนและปริมาณ)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "yi4 xie1"
@@ -2537,7 +2537,7 @@
     "lessons": [
       7
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "64",
     "pdfPage": "90",
     "pinyinNum": "na4 xie1"
@@ -2566,7 +2566,7 @@
     "lessons": [
       7
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "ji3"
@@ -2581,7 +2581,7 @@
     "lessons": [
       7
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "54",
     "pdfPage": "80",
     "pinyinNum": "ye3"
@@ -2596,7 +2596,7 @@
     "lessons": [
       7
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "he1"
@@ -2611,7 +2611,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "63",
     "pdfPage": "89",
     "pinyinNum": "ji1 dan4 tang1"
@@ -2626,7 +2626,7 @@
     "lessons": [
       7
     ],
-    "pos": "动、介",
+    "pos": "动 (คำกริยา)、介 (คำบุพบท)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "zai4"
@@ -2641,7 +2641,7 @@
     "lessons": [
       7
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "62",
     "pdfPage": "88",
     "pinyinNum": "jiao4 shi4"
@@ -2656,7 +2656,7 @@
     "lessons": [
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "mai3"
@@ -2671,7 +2671,7 @@
     "lessons": [
       8
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "shui3 guo3"
@@ -2686,7 +2686,7 @@
     "lessons": [
       8
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "ping2 guo3"
@@ -2701,7 +2701,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "jin1"
@@ -2716,7 +2716,7 @@
     "lessons": [
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "duo1 shao5"
@@ -2731,7 +2731,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "kuai4"
@@ -2746,7 +2746,7 @@
     "lessons": [
       8
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "gui4"
@@ -2775,7 +2775,7 @@
     "lessons": [
       8
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "pian2 yi5"
@@ -2790,7 +2790,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "",
     "pdfPage": "",
     "pinyinNum": "yi4 dian3r"
@@ -2805,7 +2805,7 @@
     "lessons": [
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "lai2"
@@ -2820,7 +2820,7 @@
     "lessons": [
       8
     ],
-    "pos": "助",
+    "pos": "助 (คำช่วย)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "ba5"
@@ -2835,7 +2835,7 @@
     "lessons": [
       8
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "hai2"
@@ -2864,7 +2864,7 @@
     "lessons": [
       8
     ],
-    "pos": "名",
+    "pos": "名 (คำนาม)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "ju2 zi5"
@@ -2879,7 +2879,7 @@
     "lessons": [
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "zen3 me5"
@@ -2894,7 +2894,7 @@
     "lessons": [
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "mai4"
@@ -2909,7 +2909,7 @@
     "lessons": [
       8
     ],
-    "pos": "副",
+    "pos": "副 (คำวิเศษณ์)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "yi2 gong4"
@@ -2924,7 +2924,7 @@
     "lessons": [
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "gei3"
@@ -2939,7 +2939,7 @@
     "lessons": [
       8
     ],
-    "pos": "动",
+    "pos": "动 (คำกริยา)",
     "bookPage": "86",
     "pdfPage": "112",
     "pinyinNum": "zhao3"
@@ -2954,7 +2954,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "gong1 jin1"
@@ -2969,7 +2969,7 @@
     "lessons": [
       8
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "",
     "pdfPage": "",
     "pinyinNum": "duo1"
@@ -2984,7 +2984,7 @@
     "lessons": [
       8
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "shao3"
@@ -2999,7 +2999,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "jiao3"
@@ -3014,7 +3014,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "72",
     "pdfPage": "98",
     "pinyinNum": "fen1"
@@ -3029,7 +3029,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "yuan2"
@@ -3044,7 +3044,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
     "pdfPage": "97",
     "pinyinNum": "mao2"
@@ -3059,7 +3059,7 @@
     "lessons": [
       8
     ],
-    "pos": "代",
+    "pos": "代 (สรรพนาม)",
     "bookPage": "85",
     "pdfPage": "111",
     "pinyinNum": "nin2"
@@ -3074,7 +3074,7 @@
     "lessons": [
       8
     ],
-    "pos": "形",
+    "pos": "形 (คำคุณศัพท์)",
     "bookPage": "1",
     "pdfPage": "27",
     "pinyinNum": "hao3"
@@ -3089,7 +3089,7 @@
     "lessons": [
       8
     ],
-    "pos": "量",
+    "pos": "量 (ลักษณนาม)",
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "ge4"
