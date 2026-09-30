@@ -1,0 +1,3097 @@
+[
+  {
+    "id": "v1",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "th": "คุณ (เอกพจน์)",
+    "en": "you",
+    "category": "core",
+    "lessons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "pos": "代",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "ni3"
+  },
+  {
+    "id": "v2",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "th": "ดี; สบายดี",
+    "en": "good; okay",
+    "category": "core",
+    "lessons": [
+      1,
+      5
+    ],
+    "pos": "形",
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "hao3"
+  },
+  {
+    "id": "v3",
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "th": "สวัสดี",
+    "en": "hello",
+    "category": "phrase",
+    "lessons": [
+      1
+    ],
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "ni3 hao3"
+  },
+  {
+    "id": "v4",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "th": "หนึ่ง",
+    "en": "one",
+    "category": "core",
+    "lessons": [
+      1,
+      4,
+      7,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "85, 89",
+    "pdfPage": "111, 115",
+    "pinyinNum": "yi1"
+  },
+  {
+    "id": "v5",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "th": "ห้า",
+    "en": "five",
+    "category": "core",
+    "lessons": [
+      1,
+      4,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "wu3"
+  },
+  {
+    "id": "v6",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "th": "แปด",
+    "en": "eight",
+    "category": "core",
+    "lessons": [
+      1,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "ba1"
+  },
+  {
+    "id": "v7",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "th": "ใหญ่",
+    "en": "big; large",
+    "category": "core",
+    "lessons": [
+      1
+    ],
+    "pos": "形",
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "da4"
+  },
+  {
+    "id": "v8",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "th": "ไม่",
+    "en": "not; no",
+    "category": "core",
+    "lessons": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "pos": "副",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "bu4"
+  },
+  {
+    "id": "v9",
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "th": "ปาก; ลักษณนามนับคนในครอบครัว",
+    "en": "mouth; measure word for family members",
+    "category": "core",
+    "lessons": [
+      1
+    ],
+    "pos": "名、量",
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "kou3"
+  },
+  {
+    "id": "v10",
+    "hanzi": "白",
+    "pinyin": "bái",
+    "th": "ขาว",
+    "en": "white",
+    "category": "core",
+    "lessons": [
+      1
+    ],
+    "pos": "形",
+    "bookPage": "2",
+    "pdfPage": "28",
+    "pinyinNum": "bai2"
+  },
+  {
+    "id": "v11",
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "th": "เพศหญิง",
+    "en": "female",
+    "category": "core",
+    "lessons": [
+      1
+    ],
+    "pos": "形",
+    "bookPage": "2",
+    "pdfPage": "28",
+    "pinyinNum": "nv3"
+  },
+  {
+    "id": "v12",
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "th": "ม้า",
+    "en": "horse",
+    "category": "core",
+    "lessons": [
+      1
+    ],
+    "pos": "名",
+    "bookPage": "95",
+    "pdfPage": "123",
+    "pinyinNum": "ma3"
+  },
+  {
+    "id": "v13",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "th": "ยุ่ง",
+    "en": "busy",
+    "category": "core",
+    "lessons": [
+      2,
+      5
+    ],
+    "pos": "形",
+    "bookPage": "14",
+    "pdfPage": "40",
+    "pinyinNum": "mang2"
+  },
+  {
+    "id": "v14",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "th": "คำช่วยลงท้ายประโยคคำถาม",
+    "en": "question particle",
+    "category": "core",
+    "lessons": [
+      2,
+      3,
+      5
+    ],
+    "pos": "助",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "ma5"
+  },
+  {
+    "id": "v15",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "th": "มาก",
+    "en": "very",
+    "category": "core",
+    "lessons": [
+      2,
+      5
+    ],
+    "pos": "副",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "hen3"
+  },
+  {
+    "id": "v16",
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "th": "ภาษาจีน",
+    "en": "Chinese language",
+    "category": "core",
+    "lessons": [
+      2,
+      3,
+      6
+    ],
+    "pos": "名",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "han4 yu3"
+  },
+  {
+    "id": "v17",
+    "hanzi": "难",
+    "pinyin": "nán",
+    "th": "ยาก",
+    "en": "difficult",
+    "category": "core",
+    "lessons": [
+      2,
+      6
+    ],
+    "pos": "形",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "nan2"
+  },
+  {
+    "id": "v18",
+    "hanzi": "太",
+    "pinyin": "tài",
+    "th": "เกินไป; มากเกินไป",
+    "en": "too; very",
+    "category": "core",
+    "lessons": [
+      2,
+      5,
+      6
+    ],
+    "pos": "副",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "tai4"
+  },
+  {
+    "id": "v19",
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "th": "พ่อ",
+    "en": "father",
+    "category": "core",
+    "lessons": [
+      2,
+      5
+    ],
+    "pos": "名",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "ba4 ba5"
+  },
+  {
+    "id": "v20",
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "th": "แม่",
+    "en": "mother",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "名",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "ma1 ma5"
+  },
+  {
+    "id": "v21",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "th": "เขา (ผู้ชาย)",
+    "en": "he; him",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "代",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "ta1"
+  },
+  {
+    "id": "v22",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "th": "เธอ; เขา (ผู้หญิง)",
+    "en": "she; her",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "代",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "ta1"
+  },
+  {
+    "id": "v23",
+    "hanzi": "男",
+    "pinyin": "nán",
+    "th": "เพศชาย",
+    "en": "male",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "形",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "nan2"
+  },
+  {
+    "id": "v24",
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "th": "พี่ชาย",
+    "en": "older brother",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "名",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "ge1 ge5"
+  },
+  {
+    "id": "v25",
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "th": "น้องชาย",
+    "en": "younger brother",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "名",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "di4 di5"
+  },
+  {
+    "id": "v26",
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "th": "น้องสาว",
+    "en": "younger sister",
+    "category": "core",
+    "lessons": [
+      2
+    ],
+    "pos": "名",
+    "bookPage": "15",
+    "pdfPage": "41",
+    "pinyinNum": "mei4 mei5"
+  },
+  {
+    "id": "v27",
+    "hanzi": "学",
+    "pinyin": "xué",
+    "th": "เรียน; ศึกษา",
+    "en": "to study; to learn",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "动",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "xue2"
+  },
+  {
+    "id": "v28",
+    "hanzi": "英语",
+    "pinyin": "Yīngyǔ",
+    "th": "ภาษาอังกฤษ",
+    "en": "English language",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "ying1 yu3"
+  },
+  {
+    "id": "v29",
+    "hanzi": "阿拉伯语",
+    "pinyin": "Ālābóyǔ",
+    "th": "ภาษาอาหรับ",
+    "en": "Arabic",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "a1 la1 bo2 yu3"
+  },
+  {
+    "id": "v30",
+    "hanzi": "德语",
+    "pinyin": "Déyǔ",
+    "th": "ภาษาเยอรมัน",
+    "en": "German",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "de2 yu3"
+  },
+  {
+    "id": "v31",
+    "hanzi": "俄语",
+    "pinyin": "Éyǔ",
+    "th": "ภาษารัสเซีย",
+    "en": "Russian",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "e2 yu3"
+  },
+  {
+    "id": "v32",
+    "hanzi": "法语",
+    "pinyin": "Fǎyǔ",
+    "th": "ภาษาฝรั่งเศส",
+    "en": "French",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "fa3 yu3"
+  },
+  {
+    "id": "v33",
+    "hanzi": "韩国语",
+    "pinyin": "Hánguóyǔ",
+    "th": "ภาษาเกาหลี",
+    "en": "Korean",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "han2 guo2 yu3"
+  },
+  {
+    "id": "v34",
+    "hanzi": "日语",
+    "pinyin": "Rìyǔ",
+    "th": "ภาษาญี่ปุ่น",
+    "en": "Japanese language",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "ri4 yu3"
+  },
+  {
+    "id": "v35",
+    "hanzi": "西班牙语",
+    "pinyin": "Xībānyáyǔ",
+    "th": "ภาษาสเปน",
+    "en": "Spanish",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "xi1 ban1 ya2 yu3"
+  },
+  {
+    "id": "v36",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "th": "ไป",
+    "en": "to go",
+    "category": "core",
+    "lessons": [
+      3,
+      4,
+      7
+    ],
+    "pos": "动",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "qu4"
+  },
+  {
+    "id": "v37",
+    "hanzi": "对",
+    "pinyin": "duì",
+    "th": "ถูกต้อง; ใช่",
+    "en": "right; correct",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "形",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "dui4"
+  },
+  {
+    "id": "v38",
+    "hanzi": "邮局",
+    "pinyin": "yóujú",
+    "th": "ที่ทำการไปรษณีย์",
+    "en": "post office",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "you2 ju2"
+  },
+  {
+    "id": "v39",
+    "hanzi": "寄",
+    "pinyin": "jì",
+    "th": "ส่งทางไปรษณีย์; ส่งจดหมาย",
+    "en": "to mail; to send",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "动",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "ji4"
+  },
+  {
+    "id": "v40",
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "th": "จดหมาย",
+    "en": "letter",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "xin4"
+  },
+  {
+    "id": "v41",
+    "hanzi": "银行",
+    "pinyin": "yínháng",
+    "th": "ธนาคาร",
+    "en": "bank",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "yin2 hang2"
+  },
+  {
+    "id": "v42",
+    "hanzi": "取",
+    "pinyin": "qǔ",
+    "th": "เอา; รับ; ถอน (เงิน)",
+    "en": "to take; to withdraw",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "动",
+    "bookPage": "21, 22",
+    "pdfPage": "47, 48",
+    "pinyinNum": "qu3"
+  },
+  {
+    "id": "v43",
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "th": "เงิน",
+    "en": "money",
+    "category": "core",
+    "lessons": [
+      3,
+      8
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "qian2"
+  },
+  {
+    "id": "v44",
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "th": "พรุ่งนี้",
+    "en": "tomorrow",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "名",
+    "bookPage": "22",
+    "pdfPage": "48",
+    "pinyinNum": "ming2 tian1"
+  },
+  {
+    "id": "v45",
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "th": "วัน",
+    "en": "day",
+    "category": "phrase",
+    "lessons": [
+      3,
+      4
+    ],
+    "pos": "名",
+    "bookPage": "23",
+    "pdfPage": "49",
+    "pinyinNum": "tian1"
+  },
+  {
+    "id": "v46",
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "th": "พบ; เห็น",
+    "en": "to see; to meet",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "动",
+    "bookPage": "23",
+    "pdfPage": "49",
+    "pinyinNum": "jian4"
+  },
+  {
+    "id": "v47",
+    "hanzi": "六",
+    "pinyin": "liù",
+    "th": "หก",
+    "en": "six",
+    "category": "core",
+    "lessons": [
+      3,
+      4,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "liu4"
+  },
+  {
+    "id": "v48",
+    "hanzi": "七",
+    "pinyin": "qī",
+    "th": "เจ็ด",
+    "en": "seven",
+    "category": "core",
+    "lessons": [
+      3
+    ],
+    "pos": "数",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "qi1"
+  },
+  {
+    "id": "v49",
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "th": "เก้า",
+    "en": "nine",
+    "category": "core",
+    "lessons": [
+      3,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "jiu3"
+  },
+  {
+    "id": "v50",
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "th": "ปักกิ่ง เมืองหลวงของจีน",
+    "en": "Beijing",
+    "category": "context",
+    "lessons": [
+      3
+    ],
+    "bookPage": "23",
+    "pdfPage": "49",
+    "pinyinNum": "bei3 jing1"
+  },
+  {
+    "id": "v51",
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "th": "วันนี้",
+    "en": "today",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "jin1 tian1"
+  },
+  {
+    "id": "v52",
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "th": "เมื่อวาน",
+    "en": "yesterday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "zuo2 tian1"
+  },
+  {
+    "id": "v53",
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "th": "สัปดาห์",
+    "en": "week",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1"
+  },
+  {
+    "id": "v54",
+    "hanzi": "星期一",
+    "pinyin": "Xīngqīyī",
+    "th": "วันจันทร์",
+    "en": "Monday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 yi1"
+  },
+  {
+    "id": "v55",
+    "hanzi": "星期二",
+    "pinyin": "Xīngqī'èr",
+    "th": "วันอังคาร",
+    "en": "Tuesday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 er4"
+  },
+  {
+    "id": "v56",
+    "hanzi": "星期三",
+    "pinyin": "Xīngqīsān",
+    "th": "วันพุธ",
+    "en": "Wednesday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 san1"
+  },
+  {
+    "id": "v57",
+    "hanzi": "星期四",
+    "pinyin": "Xīngqīsì",
+    "th": "วันพฤหัสบดี",
+    "en": "Thursday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 si4"
+  },
+  {
+    "id": "v58",
+    "hanzi": "星期五",
+    "pinyin": "Xīngqīwǔ",
+    "th": "วันศุกร์",
+    "en": "Friday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 wu3"
+  },
+  {
+    "id": "v59",
+    "hanzi": "星期六",
+    "pinyin": "Xīngqīliù",
+    "th": "วันเสาร์",
+    "en": "Saturday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "32",
+    "pdfPage": "58",
+    "pinyinNum": "xing1 qi1 liu4"
+  },
+  {
+    "id": "v60",
+    "hanzi": "星期天",
+    "pinyin": "Xīngqītiān",
+    "th": "วันอาทิตย์",
+    "en": "Sunday",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "xing1 qi1 tian1"
+  },
+  {
+    "id": "v61",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "th": "กี่; เท่าไร; หลาย (จำนวนไม่มาก)",
+    "en": "how many; how much",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "代",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "ji3"
+  },
+  {
+    "id": "v62",
+    "hanzi": "二",
+    "pinyin": "èr",
+    "th": "สอง",
+    "en": "two",
+    "category": "core",
+    "lessons": [
+      4,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "er4"
+  },
+  {
+    "id": "v63",
+    "hanzi": "三",
+    "pinyin": "sān",
+    "th": "สาม",
+    "en": "three",
+    "category": "core",
+    "lessons": [
+      4,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "san1"
+  },
+  {
+    "id": "v64",
+    "hanzi": "四",
+    "pinyin": "sì",
+    "th": "สี่",
+    "en": "four",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "数",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "si4"
+  },
+  {
+    "id": "v65",
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "th": "ที่ไหน",
+    "en": "where",
+    "category": "core",
+    "lessons": [
+      4,
+      7
+    ],
+    "pos": "代",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "nar3"
+  },
+  {
+    "id": "v66",
+    "hanzi": "那儿",
+    "pinyin": "nàr",
+    "th": "ที่นั่น",
+    "en": "there",
+    "category": "phrase",
+    "lessons": [
+      4
+    ],
+    "pos": "代",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "nar4"
+  },
+  {
+    "id": "v67",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "th": "ฉัน",
+    "en": "I; me",
+    "category": "core",
+    "lessons": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "pos": "代",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "wo3"
+  },
+  {
+    "id": "v68",
+    "hanzi": "回",
+    "pinyin": "huí",
+    "th": "กลับ",
+    "en": "to return",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "动",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "hui2"
+  },
+  {
+    "id": "v69",
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "th": "โรงเรียน",
+    "en": "school",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "名",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "xue2 xiao4"
+  },
+  {
+    "id": "v70",
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "th": "ลาก่อน; แล้วพบกันใหม่",
+    "en": "goodbye",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "动",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "zai4 jian4"
+  },
+  {
+    "id": "v71",
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "th": "ขอโทษ",
+    "en": "sorry",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "pos": "动",
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "dui4 bu5 qi3"
+  },
+  {
+    "id": "v72",
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "th": "ไม่เป็นไร",
+    "en": "it is all right",
+    "category": "core",
+    "lessons": [
+      4
+    ],
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "mei2 guan1 xi5"
+  },
+  {
+    "id": "v73",
+    "hanzi": "天安门",
+    "pinyin": "Tiān'ān Mén",
+    "th": "เทียนอันเหมิน สถานที่สำคัญในปักกิ่ง",
+    "en": "Tiananmen",
+    "category": "context",
+    "lessons": [
+      4
+    ],
+    "bookPage": "33",
+    "pdfPage": "59",
+    "pinyinNum": "tian1 an1 men2"
+  },
+  {
+    "id": "v74",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "th": "นี่; นี้",
+    "en": "this",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "代",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "zhe4"
+  },
+  {
+    "id": "v75",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "th": "เป็น; คือ",
+    "en": "to be",
+    "category": "core",
+    "lessons": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "pos": "动",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "shi4"
+  },
+  {
+    "id": "v76",
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "th": "ครู; อาจารย์",
+    "en": "teacher",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "名",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "lao3 shi1"
+  },
+  {
+    "id": "v77",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "th": "คุณ; ท่าน (สุภาพ)",
+    "en": "you (polite)",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "代",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "nin2"
+  },
+  {
+    "id": "v78",
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "th": "เชิญ; กรุณา",
+    "en": "please; to invite",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "动",
+    "bookPage": "78",
+    "pdfPage": "104",
+    "pinyinNum": "qing3"
+  },
+  {
+    "id": "v79",
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "th": "เข้า; เข้ามา",
+    "en": "to enter",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "动",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "jin4"
+  },
+  {
+    "id": "v80",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "th": "นั่ง",
+    "en": "to sit; take transport",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "动",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "zuo4"
+  },
+  {
+    "id": "v81",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "th": "ดื่ม",
+    "en": "to drink",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "动",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "he1"
+  },
+  {
+    "id": "v82",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "th": "ชา",
+    "en": "tea",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "名",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "cha2"
+  },
+  {
+    "id": "v83",
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "th": "ขอบคุณ",
+    "en": "thank you",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "动",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "xie4 xie5"
+  },
+  {
+    "id": "v84",
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "th": "ไม่เป็นไร (ตอบรับคำขอบคุณ)",
+    "en": "you are welcome",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "bu2 ke4 qi5"
+  },
+  {
+    "id": "v85",
+    "hanzi": "客气",
+    "pinyin": "kèqi",
+    "th": "สุภาพ; เกรงใจ",
+    "en": "polite; courteous",
+    "category": "phrase",
+    "lessons": [
+      5
+    ],
+    "pos": "形",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "ke4 qi5"
+  },
+  {
+    "id": "v86",
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "th": "งาน; ทำงาน",
+    "en": "work",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "名、动",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "gong1 zuo4"
+  },
+  {
+    "id": "v87",
+    "hanzi": "身体",
+    "pinyin": "shēntǐ",
+    "th": "สุขภาพ; ร่างกาย",
+    "en": "health; body",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "名",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "shen1 ti3"
+  },
+  {
+    "id": "v88",
+    "hanzi": "身",
+    "pinyin": "shēn",
+    "th": "ร่างกาย",
+    "en": "body",
+    "category": "phrase",
+    "lessons": [
+      5
+    ],
+    "pos": "名",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "shen1"
+  },
+  {
+    "id": "v89",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "th": "สิบ",
+    "en": "ten",
+    "category": "core",
+    "lessons": [
+      5,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "shi2"
+  },
+  {
+    "id": "v90",
+    "hanzi": "日",
+    "pinyin": "rì",
+    "th": "ดวงอาทิตย์; วัน",
+    "en": "day; date",
+    "category": "core",
+    "lessons": [
+      5
+    ],
+    "pos": "名",
+    "bookPage": "42",
+    "pdfPage": "68",
+    "pinyinNum": "ri4"
+  },
+  {
+    "id": "v91",
+    "hanzi": "王",
+    "pinyin": "Wáng",
+    "th": "หวัง (นามสกุลจีน)",
+    "en": "Wang (surname)",
+    "category": "context",
+    "lessons": [
+      5
+    ],
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "wang2"
+  },
+  {
+    "id": "v92",
+    "hanzi": "请问",
+    "pinyin": "qǐngwèn",
+    "th": "ขอโทษ ขอถามหน่อย",
+    "en": "excuse me",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "qing3 wen4"
+  },
+  {
+    "id": "v93",
+    "hanzi": "贵姓",
+    "pinyin": "guìxìng",
+    "th": "นามสกุลของคุณ (คำสุภาพ)",
+    "en": "your surname (polite)",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "gui4 xing4"
+  },
+  {
+    "id": "v94",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "th": "ชื่อว่า; เรียก",
+    "en": "to be called",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "jiao4"
+  },
+  {
+    "id": "v95",
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "th": "ชื่อ",
+    "en": "name",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "ming2 zi5"
+  },
+  {
+    "id": "v96",
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "th": "ไหน",
+    "en": "which",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "代",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "na3"
+  },
+  {
+    "id": "v97",
+    "hanzi": "国",
+    "pinyin": "guó",
+    "th": "ประเทศ",
+    "en": "country",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "guo2"
+  },
+  {
+    "id": "v98",
+    "hanzi": "人",
+    "pinyin": "rén",
+    "th": "คน",
+    "en": "person",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ren2"
+  },
+  {
+    "id": "v99",
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "th": "รู้จัก",
+    "en": "to know; to meet",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ren4 shi5"
+  },
+  {
+    "id": "v100",
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "th": "ดีใจ; ยินดี",
+    "en": "happy; pleased",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "形",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "gao1 xing4"
+  },
+  {
+    "id": "v101",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "th": "ก็...ด้วย; เช่นกัน",
+    "en": "also; too",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "副",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ye3"
+  },
+  {
+    "id": "v102",
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "th": "เรียน; ศึกษา",
+    "en": "to study",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "xue2 xi2"
+  },
+  {
+    "id": "v103",
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "th": "อะไร",
+    "en": "what",
+    "category": "core",
+    "lessons": [
+      6,
+      7,
+      8
+    ],
+    "pos": "代",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "shen2 me5"
+  },
+  {
+    "id": "v104",
+    "hanzi": "发音",
+    "pinyin": "fāyīn",
+    "th": "การออกเสียง; ออกเสียง",
+    "en": "pronunciation; to pronounce",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名、动",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "fa1 yin1"
+  },
+  {
+    "id": "v105",
+    "hanzi": "汉字",
+    "pinyin": "Hànzì",
+    "th": "อักษรจีน",
+    "en": "Chinese character",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "han4 zi4"
+  },
+  {
+    "id": "v106",
+    "hanzi": "书",
+    "pinyin": "shū",
+    "th": "หนังสือ",
+    "en": "book",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "shu1"
+  },
+  {
+    "id": "v107",
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "th": "ใคร",
+    "en": "who",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "代",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "shei2"
+  },
+  {
+    "id": "v108",
+    "hanzi": "的",
+    "pinyin": "de",
+    "th": "คำช่วยแสดงความเป็นเจ้าของหรือเชื่อมส่วนขยายคำนาม",
+    "en": "possessive particle",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "助",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "de5"
+  },
+  {
+    "id": "v109",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "th": "นั่น",
+    "en": "that",
+    "category": "core",
+    "lessons": [
+      6,
+      7
+    ],
+    "pos": "代",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "na4"
+  },
+  {
+    "id": "v110",
+    "hanzi": "杂志",
+    "pinyin": "zázhì",
+    "th": "นิตยสาร",
+    "en": "magazine",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "za2 zhi4"
+  },
+  {
+    "id": "v111",
+    "hanzi": "……文",
+    "pinyin": "…wén",
+    "th": "ภาษาเขียน; ส่วนท้ายชื่อภาษา",
+    "en": "written language; language suffix",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "wen2"
+  },
+  {
+    "id": "v112",
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "th": "เพื่อน",
+    "en": "friend",
+    "category": "core",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "peng2 you5"
+  },
+  {
+    "id": "v113",
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "th": "ถาม; สอบถาม",
+    "en": "to ask; to inquire",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "wen4"
+  },
+  {
+    "id": "v114",
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "th": "มีนามสกุลว่า; นามสกุล",
+    "en": "surname; to be surnamed",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "动、名",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "xing4"
+  },
+  {
+    "id": "v115",
+    "hanzi": "中文",
+    "pinyin": "Zhōngwén",
+    "th": "ภาษาจีน (โดยเฉพาะภาษาเขียน)",
+    "en": "Chinese language; written Chinese",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "zhong1 wen2"
+  },
+  {
+    "id": "v116",
+    "hanzi": "阿拉伯文",
+    "pinyin": "Ālābówén",
+    "th": "ภาษาอาหรับ (ภาษาเขียน)",
+    "en": "Arabic (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "a1 la1 bo2 wen2"
+  },
+  {
+    "id": "v117",
+    "hanzi": "德文",
+    "pinyin": "Déwén",
+    "th": "ภาษาเยอรมัน (ภาษาเขียน)",
+    "en": "German (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "de2 wen2"
+  },
+  {
+    "id": "v118",
+    "hanzi": "俄文",
+    "pinyin": "Éwén",
+    "th": "ภาษารัสเซีย (ภาษาเขียน)",
+    "en": "Russian (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "e2 wen2"
+  },
+  {
+    "id": "v119",
+    "hanzi": "法文",
+    "pinyin": "Fǎwén",
+    "th": "ภาษาฝรั่งเศส (ภาษาเขียน)",
+    "en": "French (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "fa3 wen2"
+  },
+  {
+    "id": "v120",
+    "hanzi": "韩文",
+    "pinyin": "Hánwén",
+    "th": "ภาษาเกาหลี (ภาษาเขียน)",
+    "en": "Korean (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "han2 wen2"
+  },
+  {
+    "id": "v121",
+    "hanzi": "日文",
+    "pinyin": "Rìwén",
+    "th": "ภาษาญี่ปุ่น (ภาษาเขียน)",
+    "en": "Japanese (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ri4 wen2"
+  },
+  {
+    "id": "v122",
+    "hanzi": "西班牙文",
+    "pinyin": "Xībānyáwén",
+    "th": "ภาษาสเปน (ภาษาเขียน)",
+    "en": "Spanish (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "xi1 ban1 ya2 wen2"
+  },
+  {
+    "id": "v123",
+    "hanzi": "英文",
+    "pinyin": "Yīngwén",
+    "th": "ภาษาอังกฤษ (ภาษาเขียน)",
+    "en": "English (written language)",
+    "category": "phrase",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ying1 wen2"
+  },
+  {
+    "id": "v124",
+    "hanzi": "麦克",
+    "pinyin": "Màikè",
+    "th": "ไมค์",
+    "en": "Mike",
+    "category": "context",
+    "lessons": [
+      6,
+      7
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "mai4 ke4"
+  },
+  {
+    "id": "v125",
+    "hanzi": "张东",
+    "pinyin": "Zhāng Dōng",
+    "th": "จางตง (ชื่อบุคคล)",
+    "en": "Zhang Dong (a person's name)",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "Zhang1 Dong1"
+  },
+  {
+    "id": "v126",
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "th": "ประเทศจีน",
+    "en": "China",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "zhong1 guo2"
+  },
+  {
+    "id": "v127",
+    "hanzi": "张",
+    "pinyin": "Zhāng",
+    "th": "จาง (นามสกุล)",
+    "en": "measure word for flat objects",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "zhang1"
+  },
+  {
+    "id": "v128",
+    "hanzi": "德国",
+    "pinyin": "Déguó",
+    "th": "ประเทศเยอรมนี",
+    "en": "Germany",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "de2 guo2"
+  },
+  {
+    "id": "v129",
+    "hanzi": "俄国",
+    "pinyin": "Éguó",
+    "th": "ประเทศรัสเซีย",
+    "en": "Russia",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "e2 guo2"
+  },
+  {
+    "id": "v130",
+    "hanzi": "法国",
+    "pinyin": "Fǎguó",
+    "th": "ประเทศฝรั่งเศส",
+    "en": "France",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "fa3 guo2"
+  },
+  {
+    "id": "v131",
+    "hanzi": "韩国",
+    "pinyin": "Hánguó",
+    "th": "ประเทศเกาหลีใต้",
+    "en": "Korea",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "han2 guo2"
+  },
+  {
+    "id": "v132",
+    "hanzi": "美国",
+    "pinyin": "Měiguó",
+    "th": "สหรัฐอเมริกา",
+    "en": "United States",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "mei3 guo2"
+  },
+  {
+    "id": "v133",
+    "hanzi": "日本",
+    "pinyin": "Rìběn",
+    "th": "ประเทศญี่ปุ่น",
+    "en": "Japan",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "ri4 ben3"
+  },
+  {
+    "id": "v134",
+    "hanzi": "英国",
+    "pinyin": "Yīngguó",
+    "th": "สหราชอาณาจักร",
+    "en": "United Kingdom",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "bookPage": "55",
+    "pdfPage": "81",
+    "pinyinNum": "ying1 guo2"
+  },
+  {
+    "id": "v135",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "th": "คุณ",
+    "en": "you",
+    "category": "context",
+    "lessons": [
+      6,
+      7,
+      8
+    ],
+    "pos": "代",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "ni3"
+  },
+  {
+    "id": "v136",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "th": "มาก; คำประกอบหน้าคำคุณศัพท์ในภาคแสดง",
+    "en": "very",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "副",
+    "bookPage": "51",
+    "pdfPage": "77",
+    "pinyinNum": "hen3"
+  },
+  {
+    "id": "v137",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "th": "คำช่วยลงท้ายคำถามว่าไหม",
+    "en": "question particle",
+    "category": "context",
+    "lessons": [
+      6,
+      7,
+      8
+    ],
+    "pos": "助",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "ma5"
+  },
+  {
+    "id": "v138",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "th": "นี่",
+    "en": "this",
+    "category": "context",
+    "lessons": [
+      6,
+      7,
+      8
+    ],
+    "pos": "代",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "zhe4"
+  },
+  {
+    "id": "v139",
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "th": "ครู",
+    "en": "teacher",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "53",
+    "pdfPage": "79",
+    "pinyinNum": "lao3 shi1"
+  },
+  {
+    "id": "v140",
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "th": "โต๊ะ",
+    "en": "table",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "zhuo1 zi5"
+  },
+  {
+    "id": "v141",
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "th": "บน",
+    "en": "on; above",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "方位",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "shang4"
+  },
+  {
+    "id": "v142",
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "th": "มี",
+    "en": "to have",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "动",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "you3"
+  },
+  {
+    "id": "v143",
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "th": "สอง (ใช้หน้าลักษณนาม)",
+    "en": "two (before a measure word)",
+    "category": "core",
+    "lessons": [
+      6,
+      8
+    ],
+    "pos": "数",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "liang3"
+  },
+  {
+    "id": "v144",
+    "hanzi": "个",
+    "pinyin": "gè",
+    "th": "ลักษณนามทั่วไป",
+    "en": "general measure word",
+    "category": "core",
+    "lessons": [
+      6,
+      7
+    ],
+    "pos": "量",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "ge4"
+  },
+  {
+    "id": "v145",
+    "hanzi": "邮包",
+    "pinyin": "yóubāo",
+    "th": "พัสดุไปรษณีย์",
+    "en": "postal parcel",
+    "category": "context",
+    "lessons": [
+      6
+    ],
+    "pos": "名",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "you2 bao1"
+  },
+  {
+    "id": "v146",
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "th": "เที่ยง; ตอนเที่ยง",
+    "en": "noon",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "zhong1 wu3"
+  },
+  {
+    "id": "v147",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "th": "กิน",
+    "en": "to eat",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "动",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "chi1"
+  },
+  {
+    "id": "v148",
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "th": "มื้ออาหาร; อาหาร",
+    "en": "meal; rice",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "fan4"
+  },
+  {
+    "id": "v149",
+    "hanzi": "食堂",
+    "pinyin": "shítáng",
+    "th": "โรงอาหาร",
+    "en": "dining hall; canteen",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "shi2 tang2"
+  },
+  {
+    "id": "v150",
+    "hanzi": "馒头",
+    "pinyin": "mántou",
+    "th": "หมั่นโถว (แป้งนึ่งไม่มีไส้)",
+    "en": "steamed bun",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "man2 tou5"
+  },
+  {
+    "id": "v151",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "th": "ต้องการ; เอา",
+    "en": "to want",
+    "category": "core",
+    "lessons": [
+      7,
+      8
+    ],
+    "pos": "动",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "yao4"
+  },
+  {
+    "id": "v152",
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "th": "ข้าวสวย",
+    "en": "cooked rice",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "mi3 fan4"
+  },
+  {
+    "id": "v153",
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "th": "ชาม; หนึ่งชามเมื่อใช้บอกปริมาณ",
+    "en": "bowl",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "wan3"
+  },
+  {
+    "id": "v154",
+    "hanzi": "鸡蛋",
+    "pinyin": "jīdàn",
+    "th": "ไข่ไก่",
+    "en": "egg",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "ji1 dan4"
+  },
+  {
+    "id": "v155",
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "th": "ซุป; น้ำแกง",
+    "en": "soup",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "tang1"
+  },
+  {
+    "id": "v156",
+    "hanzi": "啤酒",
+    "pinyin": "píjiǔ",
+    "th": "เบียร์",
+    "en": "beer",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "pi2 jiu3"
+  },
+  {
+    "id": "v157",
+    "hanzi": "这些",
+    "pinyin": "zhèxiē",
+    "th": "เหล่านี้",
+    "en": "these",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "代",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "zhe4 xie1"
+  },
+  {
+    "id": "v158",
+    "hanzi": "饺子",
+    "pinyin": "jiǎozi",
+    "th": "เกี๊ยวจีน",
+    "en": "dumpling",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "jiao3 zi5"
+  },
+  {
+    "id": "v159",
+    "hanzi": "包子",
+    "pinyin": "bāozi",
+    "th": "ซาลาเปา",
+    "en": "steamed bun",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "bao1 zi5"
+  },
+  {
+    "id": "v160",
+    "hanzi": "面条儿",
+    "pinyin": "miàntiáor",
+    "th": "เส้นก๋วยเตี๋ยว; บะหมี่",
+    "en": "noodles",
+    "category": "core",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "mian4 tiao2r"
+  },
+  {
+    "id": "v161",
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "th": "ข้าวสาร",
+    "en": "rice",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "mi3"
+  },
+  {
+    "id": "v162",
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "th": "ไก่",
+    "en": "chicken",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "ji1"
+  },
+  {
+    "id": "v163",
+    "hanzi": "蛋",
+    "pinyin": "dàn",
+    "th": "ไข่",
+    "en": "egg",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "dan4"
+  },
+  {
+    "id": "v164",
+    "hanzi": "酒",
+    "pinyin": "jiǔ",
+    "th": "เครื่องดื่มแอลกอฮอล์; เหล้า",
+    "en": "alcoholic drink; wine",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "jiu3"
+  },
+  {
+    "id": "v165",
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "th": "จำนวนหนึ่ง; บ้าง",
+    "en": "some; an indefinite quantity",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "量",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "xie1"
+  },
+  {
+    "id": "v166",
+    "hanzi": "一些",
+    "pinyin": "yìxiē",
+    "th": "บ้าง; จำนวนหนึ่ง; เล็กน้อย",
+    "en": "some; a few; a little",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "数量",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "yi4 xie1"
+  },
+  {
+    "id": "v167",
+    "hanzi": "那些",
+    "pinyin": "nàxiē",
+    "th": "เหล่านั้น",
+    "en": "those",
+    "category": "phrase",
+    "lessons": [
+      7
+    ],
+    "pos": "代",
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "na4 xie1"
+  },
+  {
+    "id": "v168",
+    "hanzi": "玛丽",
+    "pinyin": "Mǎlì",
+    "th": "แมรี",
+    "en": "Mary",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "bookPage": "64",
+    "pdfPage": "90",
+    "pinyinNum": "ma3 li4"
+  },
+  {
+    "id": "v169",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "th": "กี่",
+    "en": "how many; how much",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "代",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "ji3"
+  },
+  {
+    "id": "v170",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "th": "ก็...ด้วย",
+    "en": "also; too",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "副",
+    "bookPage": "54",
+    "pdfPage": "80",
+    "pinyinNum": "ye3"
+  },
+  {
+    "id": "v171",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "th": "ดื่ม; กินซุป",
+    "en": "to drink",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "动",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "he1"
+  },
+  {
+    "id": "v172",
+    "hanzi": "鸡蛋汤",
+    "pinyin": "jīdàntāng",
+    "th": "ซุปไข่",
+    "en": "egg soup",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "63",
+    "pdfPage": "89",
+    "pinyinNum": "ji1 dan4 tang1"
+  },
+  {
+    "id": "v173",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "th": "อยู่ที่; ใน; ที่",
+    "en": "at; in",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "动、介",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "zai4"
+  },
+  {
+    "id": "v174",
+    "hanzi": "教室",
+    "pinyin": "jiàoshì",
+    "th": "ห้องเรียน",
+    "en": "classroom",
+    "category": "context",
+    "lessons": [
+      7
+    ],
+    "pos": "名",
+    "bookPage": "62",
+    "pdfPage": "88",
+    "pinyinNum": "jiao4 shi4"
+  },
+  {
+    "id": "v175",
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "th": "ซื้อ",
+    "en": "to buy",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "动",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "mai3"
+  },
+  {
+    "id": "v176",
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "th": "ผลไม้",
+    "en": "fruit",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "名",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "shui3 guo3"
+  },
+  {
+    "id": "v177",
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "th": "แอปเปิล",
+    "en": "apple",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "名",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "ping2 guo3"
+  },
+  {
+    "id": "v178",
+    "hanzi": "斤",
+    "pinyin": "jīn",
+    "th": "จิน หน่วยน้ำหนักเท่ากับครึ่งกิโลกรัม",
+    "en": "jin; half a kilogram",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "jin1"
+  },
+  {
+    "id": "v179",
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "th": "เท่าไร; เท่าไหร่",
+    "en": "how much; how many",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "代",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "duo1 shao5"
+  },
+  {
+    "id": "v180",
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "th": "ไคว่ หน่วยเงินภาษาพูดเท่ากับหนึ่งหยวน",
+    "en": "yuan (colloquial)",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "kuai4"
+  },
+  {
+    "id": "v181",
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "th": "แพง",
+    "en": "expensive",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "形",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "gui4"
+  },
+  {
+    "id": "v182",
+    "hanzi": "太……了",
+    "pinyin": "tài…le",
+    "th": "...เกินไป; ...มาก",
+    "en": "too…; excessively…",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "tai4 le5"
+  },
+  {
+    "id": "v183",
+    "hanzi": "便宜",
+    "pinyin": "piányi",
+    "th": "ราคาถูก",
+    "en": "cheap",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "形",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "pian2 yi5"
+  },
+  {
+    "id": "v184",
+    "hanzi": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "th": "เล็กน้อย; นิดหน่อย",
+    "en": "a little",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "",
+    "pdfPage": "",
+    "pinyinNum": "yi4 dian3r"
+  },
+  {
+    "id": "v185",
+    "hanzi": "来",
+    "pinyin": "lái",
+    "th": "เอา; ขอ (เมื่อสั่งซื้อ)",
+    "en": "to come",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "动",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "lai2"
+  },
+  {
+    "id": "v186",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "th": "คำช่วยให้น้ำเสียงขอร้องหรือเสนอแนะนุ่มนวลขึ้น",
+    "en": "suggestion particle",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "助",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "ba5"
+  },
+  {
+    "id": "v187",
+    "hanzi": "还",
+    "pinyin": "hái",
+    "th": "อีก; เพิ่มเติม; ยัง",
+    "en": "still; additionally",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "副",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "hai2"
+  },
+  {
+    "id": "v188",
+    "hanzi": "别的",
+    "pinyin": "bié de",
+    "th": "อื่น; อย่างอื่น",
+    "en": "other; else",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "bie2 de5"
+  },
+  {
+    "id": "v189",
+    "hanzi": "橘子",
+    "pinyin": "júzi",
+    "th": "ส้มแมนดาริน",
+    "en": "mandarin orange",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "名",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "ju2 zi5"
+  },
+  {
+    "id": "v190",
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "th": "อย่างไร",
+    "en": "how",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "代",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "zen3 me5"
+  },
+  {
+    "id": "v191",
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "th": "ขาย",
+    "en": "to sell",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "动",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "mai4"
+  },
+  {
+    "id": "v192",
+    "hanzi": "一共",
+    "pinyin": "yígòng",
+    "th": "ทั้งหมด; รวม",
+    "en": "altogether; in total",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "副",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "yi2 gong4"
+  },
+  {
+    "id": "v193",
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "th": "ให้",
+    "en": "to give",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "动",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "gei3"
+  },
+  {
+    "id": "v194",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "th": "ทอนเงิน",
+    "en": "to give change",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "动",
+    "bookPage": "86",
+    "pdfPage": "112",
+    "pinyinNum": "zhao3"
+  },
+  {
+    "id": "v195",
+    "hanzi": "公斤",
+    "pinyin": "gōngjīn",
+    "th": "กิโลกรัม",
+    "en": "kilogram",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "gong1 jin1"
+  },
+  {
+    "id": "v196",
+    "hanzi": "多",
+    "pinyin": "duō",
+    "th": "มาก",
+    "en": "many; much",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "形",
+    "bookPage": "",
+    "pdfPage": "",
+    "pinyinNum": "duo1"
+  },
+  {
+    "id": "v197",
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "th": "น้อย",
+    "en": "few; little",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "形",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "shao3"
+  },
+  {
+    "id": "v198",
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "th": "เจี่ยว หนึ่งในสิบของหยวน",
+    "en": "jiao; one tenth of a yuan",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "jiao3"
+  },
+  {
+    "id": "v199",
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "th": "เฟิน หนึ่งในร้อยของหยวน",
+    "en": "fen; one hundredth of a yuan",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "72",
+    "pdfPage": "98",
+    "pinyinNum": "fen1"
+  },
+  {
+    "id": "v200",
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "th": "หยวน หน่วยเงินที่ตรงกับไคว่",
+    "en": "yuan",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "yuan2"
+  },
+  {
+    "id": "v201",
+    "hanzi": "毛",
+    "pinyin": "máo",
+    "th": "เหมา คำภาษาพูดของเจี่ยว",
+    "en": "mao; colloquial jiao",
+    "category": "phrase",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "71",
+    "pdfPage": "97",
+    "pinyinNum": "mao2"
+  },
+  {
+    "id": "v202",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "th": "คุณ (สุภาพ)",
+    "en": "you (polite)",
+    "category": "context",
+    "lessons": [
+      8
+    ],
+    "pos": "代",
+    "bookPage": "85",
+    "pdfPage": "111",
+    "pinyinNum": "nin2"
+  },
+  {
+    "id": "v203",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "th": "ดี; ตกลง",
+    "en": "good; okay",
+    "category": "context",
+    "lessons": [
+      8
+    ],
+    "pos": "形",
+    "bookPage": "1",
+    "pdfPage": "27",
+    "pinyinNum": "hao3"
+  },
+  {
+    "id": "v204",
+    "hanzi": "个",
+    "pinyin": "gè",
+    "th": "ลักษณนามทั่วไป ในบทนี้ใช้นับผลไม้เป็นลูก",
+    "en": "general measure word",
+    "category": "context",
+    "lessons": [
+      8
+    ],
+    "pos": "量",
+    "bookPage": "52",
+    "pdfPage": "78",
+    "pinyinNum": "ge4"
+  }
+]

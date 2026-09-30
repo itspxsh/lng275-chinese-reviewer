@@ -1,0 +1,2 @@
+'use client';
+export function speak(text:string){if(typeof window==='undefined'||!('speechSynthesis'in window))return false;const voices=speechSynthesis.getVoices();const voice=voices.find(v=>v.lang.toLowerCase().startsWith('zh-cn'))??voices.find(v=>v.lang.toLowerCase().startsWith('zh-tw'))??voices.find(v=>v.lang.toLowerCase().startsWith('zh'));if(!voice)return false;const u=new SpeechSynthesisUtterance(text);u.voice=voice;u.lang=voice.lang;u.rate=.85;speechSynthesis.speak(u);return true}

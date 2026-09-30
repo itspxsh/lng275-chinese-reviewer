@@ -1,0 +1,128 @@
+[
+  {
+    "id": "extra-1",
+    "hanzi": "筷子",
+    "pinyin": "kuàizi",
+    "th": "ตะเกียบ",
+    "en": "chopsticks",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-2",
+    "hanzi": "词典",
+    "pinyin": "cídiǎn",
+    "th": "พจนานุกรม",
+    "en": "dictionary",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-3",
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "th": "คอมพิวเตอร์",
+    "en": "computer",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-4",
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "th": "ร่ม",
+    "en": "umbrella",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-5",
+    "hanzi": "汽车",
+    "pinyin": "qìchē",
+    "th": "รถยนต์",
+    "en": "car",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-6",
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "th": "โทรทัศน์",
+    "en": "television",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-7",
+    "hanzi": "冰箱",
+    "pinyin": "bīngxiāng",
+    "th": "ตู้เย็น",
+    "en": "refrigerator",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-8",
+    "hanzi": "手机",
+    "pinyin": "shǒujī",
+    "th": "โทรศัพท์มือถือ",
+    "en": "mobile phone",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-9",
+    "hanzi": "冬阴功汤",
+    "pinyin": "dōngyīngōng tāng",
+    "th": "ต้มยำกุ้ง",
+    "en": "tom yum soup",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-10",
+    "hanzi": "青木瓜沙拉",
+    "pinyin": "qīngmùguā shālā",
+    "th": "ส้มตำ",
+    "en": "green papaya salad",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-11",
+    "hanzi": "凉拌海鲜",
+    "pinyin": "liángbàn hǎixiān",
+    "th": "ยำรวมมิตรทะเล",
+    "en": "seafood salad",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-12",
+    "hanzi": "珍珠奶茶",
+    "pinyin": "zhēnzhū nǎichá",
+    "th": "ชานมไข่มุก",
+    "en": "bubble milk tea",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-13",
+    "hanzi": "椰汁儿",
+    "pinyin": "yēzhīr",
+    "th": "น้ำมะพร้าว",
+    "en": "coconut juice",
+    "category": "extra",
+    "lessons": []
+  },
+  {
+    "id": "extra-14",
+    "hanzi": "冰咖啡",
+    "pinyin": "bīngkāfēi",
+    "th": "กาแฟเย็น",
+    "en": "iced coffee",
+    "category": "extra",
+    "lessons": []
+  }
+]
