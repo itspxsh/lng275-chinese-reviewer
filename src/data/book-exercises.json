@@ -1,0 +1,909 @@
+[
+  {
+    "id": "L1-E1",
+    "lessonId": 1,
+    "number": 1,
+    "kind": "tone",
+    "titleZh": "声调",
+    "titleTh": "ฝึกวรรณยุกต์",
+    "bookPages": [
+      10
+    ]
+  },
+  {
+    "id": "L1-E2",
+    "lessonId": 1,
+    "number": 2,
+    "kind": "tone-sandhi",
+    "titleZh": "三声变调",
+    "titleTh": "ฝึกการเปลี่ยนเสียงสาม",
+    "bookPages": [
+      10
+    ]
+  },
+  {
+    "id": "L1-E3",
+    "lessonId": 1,
+    "number": 3,
+    "kind": "sound",
+    "titleZh": "辨音",
+    "titleTh": "แยกเสียงต้น เสียงท้าย และวรรณยุกต์",
+    "bookPages": [
+      10,
+      11
+    ]
+  },
+  {
+    "id": "L1-E4",
+    "lessonId": 1,
+    "number": 4,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      11
+    ]
+  },
+  {
+    "id": "L1-E5",
+    "lessonId": 1,
+    "number": 5,
+    "kind": "communication",
+    "titleZh": "会话",
+    "titleTh": "ฝึกสนทนาทักทาย",
+    "bookPages": [
+      12
+    ]
+  },
+  {
+    "id": "L1-E6",
+    "lessonId": 1,
+    "number": 6,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      12,
+      13
+    ],
+    "bookChars": "一五八大口不六你好马"
+  },
+  {
+    "id": "L2-E1",
+    "lessonId": 2,
+    "number": 1,
+    "kind": "tone",
+    "titleZh": "声调",
+    "titleTh": "ฝึกวรรณยุกต์",
+    "bookPages": [
+      17
+    ]
+  },
+  {
+    "id": "L2-E2",
+    "lessonId": 2,
+    "number": 2,
+    "kind": "phonetics",
+    "titleZh": "轻声",
+    "titleTh": "ฝึกเสียงเบา",
+    "bookPages": [
+      17
+    ]
+  },
+  {
+    "id": "L2-E3",
+    "lessonId": 2,
+    "number": 3,
+    "kind": "tone-sandhi",
+    "titleZh": "半三声",
+    "titleTh": "ฝึกเสียงสามครึ่งเสียง",
+    "bookPages": [
+      18
+    ]
+  },
+  {
+    "id": "L2-E4",
+    "lessonId": 2,
+    "number": 4,
+    "kind": "sound",
+    "titleZh": "辨音辨调",
+    "titleTh": "แยกเสียงและวรรณยุกต์",
+    "bookPages": [
+      18
+    ]
+  },
+  {
+    "id": "L2-E5",
+    "lessonId": 2,
+    "number": 5,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      18
+    ]
+  },
+  {
+    "id": "L2-E6",
+    "lessonId": 2,
+    "number": 6,
+    "kind": "answer",
+    "titleZh": "回答问题",
+    "titleTh": "ตอบคำถาม",
+    "bookPages": [
+      18
+    ],
+    "questions": [
+      {
+        "hanzi": "你忙吗？",
+        "pinyin": "Nǐ máng ma?",
+        "th": "คุณยุ่งไหม",
+        "answerHanzi": "很忙。",
+        "answerPinyin": "Hěn máng.",
+        "answerTh": "ยุ่งมาก"
+      },
+      {
+        "hanzi": "汉语难吗？",
+        "pinyin": "Hànyǔ nán ma?",
+        "th": "ภาษาจีนยากไหม",
+        "answerHanzi": "不太难。",
+        "answerPinyin": "Bú tài nán.",
+        "answerTh": "ไม่ยากมาก"
+      },
+      {
+        "hanzi": "他忙吗？",
+        "pinyin": "Tā máng ma?",
+        "th": "เขายุ่งไหม",
+        "answerHanzi": "他很忙。",
+        "answerPinyin": "Tā hěn máng.",
+        "answerTh": "เขายุ่งมาก"
+      }
+    ]
+  },
+  {
+    "id": "L2-E7",
+    "lessonId": 2,
+    "number": 7,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      19
+    ]
+  },
+  {
+    "id": "L2-E8",
+    "lessonId": 2,
+    "number": 8,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกสนทนา",
+    "bookPages": [
+      19
+    ]
+  },
+  {
+    "id": "L2-E9",
+    "lessonId": 2,
+    "number": 9,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      19,
+      20
+    ],
+    "bookChars": "太汉语吗妈爸很忙他她难"
+  },
+  {
+    "id": "L3-E1",
+    "lessonId": 3,
+    "number": 1,
+    "kind": "tone",
+    "titleZh": "声调",
+    "titleTh": "ฝึกวรรณยุกต์",
+    "bookPages": [
+      26
+    ]
+  },
+  {
+    "id": "L3-E2",
+    "lessonId": 3,
+    "number": 2,
+    "kind": "tone-sandhi",
+    "titleZh": "不的变调",
+    "titleTh": "ฝึกการเปลี่ยนเสียง 不",
+    "bookPages": [
+      27
+    ]
+  },
+  {
+    "id": "L3-E3",
+    "lessonId": 3,
+    "number": 3,
+    "kind": "sound",
+    "titleZh": "辨音辨调",
+    "titleTh": "แยกเสียงและวรรณยุกต์",
+    "bookPages": [
+      27
+    ]
+  },
+  {
+    "id": "L3-E4",
+    "lessonId": 3,
+    "number": 4,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      28
+    ]
+  },
+  {
+    "id": "L3-E5",
+    "lessonId": 3,
+    "number": 5,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      28,
+      29
+    ]
+  },
+  {
+    "id": "L3-E6",
+    "lessonId": 3,
+    "number": 6,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกบทถามทางและบอกลา",
+    "bookPages": [
+      29
+    ]
+  },
+  {
+    "id": "L3-E7",
+    "lessonId": 3,
+    "number": 7,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      29,
+      30
+    ],
+    "bookChars": "六七九学去北京对明天见银行"
+  },
+  {
+    "id": "L4-E1",
+    "lessonId": 4,
+    "number": 1,
+    "kind": "tone",
+    "titleZh": "声调",
+    "titleTh": "ฝึกวรรณยุกต์",
+    "bookPages": [
+      37
+    ]
+  },
+  {
+    "id": "L4-E2",
+    "lessonId": 4,
+    "number": 2,
+    "kind": "phonetics",
+    "titleZh": "儿化韵",
+    "titleTh": "ฝึกเสียงลงท้าย 儿",
+    "bookPages": [
+      37
+    ]
+  },
+  {
+    "id": "L4-E3",
+    "lessonId": 4,
+    "number": 3,
+    "kind": "sound",
+    "titleZh": "辨音辨调",
+    "titleTh": "แยกเสียงและวรรณยุกต์",
+    "bookPages": [
+      37,
+      38
+    ]
+  },
+  {
+    "id": "L4-E4",
+    "lessonId": 4,
+    "number": 4,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      38
+    ]
+  },
+  {
+    "id": "L4-E5",
+    "lessonId": 4,
+    "number": 5,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      38,
+      39
+    ]
+  },
+  {
+    "id": "L4-E6",
+    "lessonId": 4,
+    "number": 6,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกสนทนาวันและสถานที่",
+    "bookPages": [
+      39
+    ]
+  },
+  {
+    "id": "L4-E7",
+    "lessonId": 4,
+    "number": 7,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      39,
+      40
+    ],
+    "bookChars": "今二三四关星期九回校我那哪"
+  },
+  {
+    "id": "L5-E1",
+    "lessonId": 5,
+    "number": 1,
+    "kind": "tone",
+    "titleZh": "声调",
+    "titleTh": "ฝึกวรรณยุกต์",
+    "bookPages": [
+      45
+    ]
+  },
+  {
+    "id": "L5-E2",
+    "lessonId": 5,
+    "number": 2,
+    "kind": "sound",
+    "titleZh": "辨音辨调",
+    "titleTh": "แยกเสียงและวรรณยุกต์",
+    "bookPages": [
+      46
+    ]
+  },
+  {
+    "id": "L5-E3",
+    "lessonId": 5,
+    "number": 3,
+    "kind": "tone-sandhi",
+    "titleZh": "三声变调",
+    "titleTh": "ฝึกการเปลี่ยนเสียงสาม",
+    "bookPages": [
+      46
+    ]
+  },
+  {
+    "id": "L5-E4",
+    "lessonId": 5,
+    "number": 4,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      47
+    ]
+  },
+  {
+    "id": "L5-E5",
+    "lessonId": 5,
+    "number": 5,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      48
+    ]
+  },
+  {
+    "id": "L5-E6",
+    "lessonId": 5,
+    "number": 6,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกแนะนำตัวและต้อนรับ",
+    "bookPages": [
+      48
+    ]
+  },
+  {
+    "id": "L5-E7",
+    "lessonId": 5,
+    "number": 7,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      49,
+      50
+    ],
+    "bookChars": "十工作日是这进老师身体谢"
+  },
+  {
+    "id": "L6-E1",
+    "lessonId": 6,
+    "number": 1,
+    "kind": "phonetics",
+    "titleZh": "语音",
+    "titleTh": "ฝึกเสียง วรรณยุกต์ และเสียงเบา",
+    "bookPages": [
+      57
+    ]
+  },
+  {
+    "id": "L6-E2",
+    "lessonId": 6,
+    "number": 2,
+    "kind": "answer",
+    "titleZh": "回答问题",
+    "titleTh": "ตอบคำถาม",
+    "bookPages": [
+      57
+    ],
+    "questions": [
+      {
+        "hanzi": "你叫什么名字？",
+        "pinyin": "Nǐ jiào shénme míngzi?",
+        "th": "คุณชื่ออะไร",
+        "answerHanzi": "我叫麦克。",
+        "answerPinyin": "Wǒ jiào Màikè.",
+        "answerTh": "ฉันชื่อไมค์"
+      },
+      {
+        "hanzi": "你是哪国人？",
+        "pinyin": "Nǐ shì nǎ guó rén?",
+        "th": "คุณเป็นคนประเทศไหน",
+        "answerHanzi": "我是美国人。",
+        "answerPinyin": "Wǒ shì Měiguó rén.",
+        "answerTh": "ฉันเป็นคนอเมริกัน"
+      },
+      {
+        "hanzi": "你学习什么？",
+        "pinyin": "Nǐ xuéxí shénme?",
+        "th": "คุณเรียนอะไร",
+        "answerHanzi": "我学习汉语。",
+        "answerPinyin": "Wǒ xuéxí Hànyǔ.",
+        "answerTh": "ฉันเรียนภาษาจีน"
+      },
+      {
+        "hanzi": "汉语难吗？",
+        "pinyin": "Hànyǔ nán ma?",
+        "th": "ภาษาจีนยากไหม",
+        "answerHanzi": "发音不太难，汉字很难。",
+        "answerPinyin": "Fāyīn bú tài nán, Hànzì hěn nán.",
+        "answerTh": "การออกเสียงไม่ยากมาก แต่อักษรจีนยากมาก"
+      }
+    ]
+  },
+  {
+    "id": "L6-E3",
+    "lessonId": 6,
+    "number": 3,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      58
+    ]
+  },
+  {
+    "id": "L6-E4",
+    "lessonId": 6,
+    "number": 4,
+    "kind": "substitution",
+    "titleZh": "替换",
+    "titleTh": "ฝึกแทนคำในประโยค",
+    "bookPages": [
+      59
+    ],
+    "instructionTh": "ใช้รูปประโยคจากหนังสือแทนประเทศ ภาษา บุคคล และเจ้าของสิ่งของ"
+  },
+  {
+    "id": "L6-E5",
+    "lessonId": 6,
+    "number": 5,
+    "kind": "retell",
+    "titleZh": "读后复述",
+    "titleTh": "อ่านแล้วเล่าใหม่",
+    "bookPages": [
+      59
+    ],
+    "retell": {
+      "hanzi": "我叫麦克，是美国人。我学习汉语。汉语的发音不太难，汉字很难。他叫张东，是中国人。他学习英语。",
+      "pinyin": "Wǒ jiào Màikè, shì Měiguó rén. Wǒ xuéxí Hànyǔ. Hànyǔ de fāyīn bú tài nán, Hànzì hěn nán. Tā jiào Zhāng Dōng, shì Zhōngguó rén. Tā xuéxí Yīngyǔ.",
+      "th": "ฉันชื่อไมค์ เป็นคนอเมริกัน ฉันเรียนภาษาจีน การออกเสียงภาษาจีนไม่ยากมาก แต่อักษรจีนยากมาก เขาชื่อจางตง เป็นคนจีน และเรียนภาษาอังกฤษ"
+    }
+  },
+  {
+    "id": "L6-E6",
+    "lessonId": 6,
+    "number": 6,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกถามชื่อและประเทศ",
+    "bookPages": [
+      59,
+      60
+    ]
+  },
+  {
+    "id": "L6-E7",
+    "lessonId": 6,
+    "number": 7,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      60,
+      61
+    ],
+    "bookChars": "人问叫名字国中文习发音朋友书"
+  },
+  {
+    "id": "L7-E1",
+    "lessonId": 7,
+    "number": 1,
+    "kind": "phonetics",
+    "titleZh": "语音",
+    "titleTh": "ฝึกเสียงและวรรณยุกต์",
+    "bookPages": [
+      65,
+      66
+    ]
+  },
+  {
+    "id": "L7-E2",
+    "lessonId": 7,
+    "number": 2,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      66
+    ],
+    "readingHanzi": [
+      "吃面条儿",
+      "吃包子",
+      "吃米饭",
+      "吃饺子",
+      "吃馒头",
+      "喝鸡蛋汤",
+      "喝茶",
+      "喝汤",
+      "喝什么",
+      "喝啤酒",
+      "什么人",
+      "什么汤",
+      "什么书",
+      "什么酒",
+      "什么名字"
+    ]
+  },
+  {
+    "id": "L7-E3",
+    "lessonId": 7,
+    "number": 3,
+    "kind": "answer",
+    "titleZh": "回答问题",
+    "titleTh": "ตอบคำถาม",
+    "bookPages": [
+      66
+    ],
+    "questions": [
+      {
+        "hanzi": "你去哪儿吃饭？",
+        "pinyin": "Nǐ qù nǎr chī fàn?",
+        "th": "คุณไปกินข้าวที่ไหน",
+        "answerHanzi": "我去食堂吃饭。",
+        "answerPinyin": "Wǒ qù shítáng chī fàn.",
+        "answerTh": "ฉันไปกินที่โรงอาหาร"
+      },
+      {
+        "hanzi": "你吃什么？",
+        "pinyin": "Nǐ chī shénme?",
+        "th": "คุณกินอะไร",
+        "answerHanzi": "我吃馒头。",
+        "answerPinyin": "Wǒ chī mántou.",
+        "answerTh": "ฉันกินหมั่นโถว"
+      },
+      {
+        "hanzi": "你吃几个馒头？",
+        "pinyin": "Nǐ chī jǐ ge mántou?",
+        "th": "คุณกินหมั่นโถวกี่ลูก",
+        "answerHanzi": "我吃一个馒头。",
+        "answerPinyin": "Wǒ chī yí ge mántou.",
+        "answerTh": "ฉันกินหนึ่งลูก"
+      },
+      {
+        "hanzi": "你喝什么？",
+        "pinyin": "Nǐ hē shénme?",
+        "th": "คุณดื่มอะไร",
+        "answerHanzi": "我喝茶。",
+        "answerPinyin": "Wǒ hē chá.",
+        "answerTh": "ฉันดื่มชา"
+      },
+      {
+        "hanzi": "你喝什么汤？",
+        "pinyin": "Nǐ hē shénme tāng?",
+        "th": "คุณดื่มซุปอะไร",
+        "answerHanzi": "我喝鸡蛋汤。",
+        "answerPinyin": "Wǒ hē jīdàntāng.",
+        "answerTh": "ฉันดื่มซุปไข่"
+      },
+      {
+        "hanzi": "你要什么？",
+        "pinyin": "Nǐ yào shénme?",
+        "th": "คุณต้องการอะไร",
+        "answerHanzi": "我要茶。",
+        "answerPinyin": "Wǒ yào chá.",
+        "answerTh": "ฉันเอาชา"
+      }
+    ]
+  },
+  {
+    "id": "L7-E4",
+    "lessonId": 7,
+    "number": 4,
+    "kind": "complete",
+    "titleZh": "完成会话",
+    "titleTh": "เติมบทสนทนา",
+    "bookPages": [
+      66,
+      67
+    ]
+  },
+  {
+    "id": "L7-E5",
+    "lessonId": 7,
+    "number": 5,
+    "kind": "picture",
+    "titleZh": "看图问答",
+    "titleTh": "ดูภาพแล้วตอบ",
+    "bookPages": [
+      67
+    ],
+    "pictures": [
+      {
+        "cue": "🥢",
+        "hanzi": "筷子",
+        "pinyin": "kuàizi",
+        "th": "ตะเกียบ"
+      },
+      {
+        "cue": "🥣",
+        "hanzi": "碗",
+        "pinyin": "wǎn",
+        "th": "ชาม"
+      },
+      {
+        "cue": "📖",
+        "hanzi": "书",
+        "pinyin": "shū",
+        "th": "หนังสือ"
+      },
+      {
+        "cue": "📚",
+        "hanzi": "词典",
+        "pinyin": "cídiǎn",
+        "th": "พจนานุกรม"
+      },
+      {
+        "cue": "💻",
+        "hanzi": "电脑",
+        "pinyin": "diànnǎo",
+        "th": "คอมพิวเตอร์"
+      },
+      {
+        "cue": "☂️",
+        "hanzi": "伞",
+        "pinyin": "sǎn",
+        "th": "ร่ม"
+      },
+      {
+        "cue": "📺",
+        "hanzi": "电视",
+        "pinyin": "diànshì",
+        "th": "โทรทัศน์"
+      },
+      {
+        "cue": "🚗",
+        "hanzi": "汽车",
+        "pinyin": "qìchē",
+        "th": "รถยนต์"
+      },
+      {
+        "cue": "🧊",
+        "hanzi": "冰箱",
+        "pinyin": "bīngxiāng",
+        "th": "ตู้เย็น"
+      },
+      {
+        "cue": "📱",
+        "hanzi": "手机",
+        "pinyin": "shǒujī",
+        "th": "โทรศัพท์มือถือ"
+      }
+    ]
+  },
+  {
+    "id": "L7-E6",
+    "lessonId": 7,
+    "number": 6,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกสั่งอาหาร",
+    "bookPages": [
+      68
+    ]
+  },
+  {
+    "id": "L7-E7",
+    "lessonId": 7,
+    "number": 7,
+    "kind": "retell",
+    "titleZh": "读后复述",
+    "titleTh": "อ่านแล้วเล่าใหม่",
+    "bookPages": [
+      68
+    ],
+    "retell": {
+      "hanzi": "中午我去食堂吃饭。这是馒头，这是包子，那是面条儿，这些是饺子。我吃馒头，喝鸡蛋汤。麦克不吃馒头，不喝鸡蛋汤，他吃米饭，喝啤酒。",
+      "pinyin": "Zhōngwǔ wǒ qù shítáng chī fàn. Zhè shì mántou, zhè shì bāozi, nà shì miàntiáor, zhèxiē shì jiǎozi. Wǒ chī mántou, hē jīdàntāng. Màikè bù chī mántou, bù hē jīdàntāng, tā chī mǐfàn, hē píjiǔ.",
+      "th": "ตอนเที่ยงฉันไปกินข้าวที่โรงอาหาร นี่คือหมั่นโถว นี่คือซาลาเปา นั่นคือบะหมี่ และเหล่านี้คือเกี๊ยว ฉันกินหมั่นโถวและดื่มซุปไข่ ไมค์ไม่กินหมั่นโถวหรือซุปไข่ เขากินข้าวและดื่มเบียร์"
+    }
+  },
+  {
+    "id": "L7-E8",
+    "lessonId": 7,
+    "number": 8,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      68,
+      69
+    ],
+    "bookChars": "个午子米头要吃饭些包面条喝酒"
+  },
+  {
+    "id": "L8-E1",
+    "lessonId": 8,
+    "number": 1,
+    "kind": "phonetics",
+    "titleZh": "语音",
+    "titleTh": "ฝึกเสียงและวรรณยุกต์",
+    "bookPages": [
+      73,
+      74
+    ]
+  },
+  {
+    "id": "L8-E2",
+    "lessonId": 8,
+    "number": 2,
+    "kind": "read",
+    "titleZh": "认读",
+    "titleTh": "อ่านและจำแนกคำ",
+    "bookPages": [
+      75
+    ],
+    "readingHanzi": [
+      "买包子",
+      "买饺子",
+      "买米饭",
+      "买苹果",
+      "买馒头",
+      "多少学生",
+      "多少老师",
+      "多少人",
+      "多少斤",
+      "多少钱",
+      "还要吗",
+      "还买吗",
+      "还去吗",
+      "还吃吗",
+      "还喝吗",
+      "还去",
+      "还买",
+      "还要",
+      "还吃",
+      "还喝"
+    ]
+  },
+  {
+    "id": "L8-E3",
+    "lessonId": 8,
+    "number": 3,
+    "kind": "picture",
+    "titleZh": "看图会话",
+    "titleTh": "ดูภาพแล้วเติมบทสนทนา",
+    "bookPages": [
+      75,
+      76
+    ],
+    "pictures": [
+      {
+        "cue": "🍌",
+        "hanzi": "香蕉",
+        "pinyin": "xiāngjiāo",
+        "th": "กล้วย",
+        "detail": "4.5元/斤"
+      },
+      {
+        "cue": "🍉",
+        "hanzi": "西瓜",
+        "pinyin": "xīguā",
+        "th": "แตงโม",
+        "detail": "2元/斤"
+      },
+      {
+        "cue": "🍇",
+        "hanzi": "葡萄",
+        "pinyin": "pútao",
+        "th": "องุ่น",
+        "detail": "18元/斤"
+      },
+      {
+        "cue": "🍐",
+        "hanzi": "梨",
+        "pinyin": "lí",
+        "th": "สาลี่",
+        "detail": "4元/斤"
+      },
+      {
+        "cue": "🍓",
+        "hanzi": "草莓",
+        "pinyin": "cǎoméi",
+        "th": "สตรอว์เบอร์รี",
+        "detail": "15元/斤"
+      },
+      {
+        "cue": "🍑",
+        "hanzi": "桃",
+        "pinyin": "táo",
+        "th": "ลูกพีช",
+        "detail": "8元/斤"
+      }
+    ]
+  },
+  {
+    "id": "L8-E4",
+    "lessonId": 8,
+    "number": 4,
+    "kind": "communication",
+    "titleZh": "交际会话",
+    "titleTh": "ฝึกซื้อของและถามราคา",
+    "bookPages": [
+      76
+    ]
+  },
+  {
+    "id": "L8-E5",
+    "lessonId": 8,
+    "number": 5,
+    "kind": "write",
+    "titleZh": "写汉字",
+    "titleTh": "ฝึกเขียนตัวอักษร",
+    "bookPages": [
+      76,
+      77
+    ],
+    "bookChars": "元毛分斤多少还买卖吧两别给找"
+  }
+]

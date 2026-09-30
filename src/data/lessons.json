@@ -30,14 +30,16 @@
         "hanzi": "你好！",
         "pinyin": "Nǐ hǎo!",
         "th": "สวัสดี!",
-        "bookPage": ""
+        "bookPage": "1",
+        "section": "课文"
       },
       {
         "speaker": "B",
         "hanzi": "你好！",
         "pinyin": "Nǐ hǎo!",
         "th": "สวัสดี!",
-        "bookPage": ""
+        "bookPage": "1",
+        "section": "课文"
       }
     ],
     "grammar": [
@@ -51,6 +53,10 @@
             "pinyin": "Nǐ hǎo!",
             "th": "สวัสดี!"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          1
         ]
       },
       {
@@ -63,7 +69,9 @@
             "pinyin": "Wǒ shì xuéshēng.",
             "th": "ฉันเป็นนักเรียน"
           }
-        ]
+        ],
+        "source": "supplement",
+        "bookPages": []
       }
     ]
   },
@@ -101,28 +109,32 @@
         "hanzi": "你忙吗？",
         "pinyin": "Nǐ máng ma?",
         "th": "คุณยุ่งไหม",
-        "bookPage": ""
+        "bookPage": "14",
+        "section": "问忙不忙"
       },
       {
         "speaker": "B",
         "hanzi": "很忙。",
         "pinyin": "Hěn máng.",
         "th": "ยุ่งมาก",
-        "bookPage": ""
+        "bookPage": "14",
+        "section": "问忙不忙"
       },
       {
         "speaker": "A",
         "hanzi": "汉语难吗？",
         "pinyin": "Hànyǔ nán ma?",
         "th": "ภาษาจีนยากไหม",
-        "bookPage": ""
+        "bookPage": "14",
+        "section": "汉语难吗"
       },
       {
         "speaker": "B",
         "hanzi": "不太难。",
         "pinyin": "Bú tài nán.",
         "th": "ไม่ยากมาก",
-        "bookPage": ""
+        "bookPage": "14",
+        "section": "汉语难吗"
       }
     ],
     "grammar": [
@@ -136,6 +148,10 @@
             "pinyin": "Nǐ máng ma?",
             "th": "คุณยุ่งไหม"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          14
         ]
       },
       {
@@ -148,6 +164,11 @@
             "pinyin": "Bú tài nán.",
             "th": "ไม่ยากมาก"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          14,
+          26
         ]
       },
       {
@@ -165,6 +186,11 @@
             "pinyin": "bàba",
             "th": "พ่อ"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          15,
+          16
         ]
       }
     ]
@@ -215,56 +241,64 @@
         "hanzi": "你学英语吗？",
         "pinyin": "Nǐ xué Yīngyǔ ma?",
         "th": "คุณเรียนภาษาอังกฤษไหม",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "学汉语"
       },
       {
         "speaker": "B",
         "hanzi": "不，学汉语。",
         "pinyin": "Bù, xué Hànyǔ.",
         "th": "ไม่ ฉันเรียนภาษาจีน",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "学汉语"
       },
       {
         "speaker": "A",
         "hanzi": "去北京吗？",
         "pinyin": "Qù Běijīng ma?",
         "th": "คุณจะไปปักกิ่งไหม",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "学汉语"
       },
       {
         "speaker": "B",
         "hanzi": "对。",
         "pinyin": "Duì.",
         "th": "ใช่ / ถูกต้อง",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "学汉语"
       },
       {
         "speaker": "A",
         "hanzi": "你去邮局寄信吗？",
         "pinyin": "Nǐ qù yóujú jì xìn ma?",
         "th": "คุณจะไปไปรษณีย์เพื่อส่งจดหมายไหม",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "明天见"
       },
       {
         "speaker": "B",
         "hanzi": "不去。去银行取钱。",
         "pinyin": "Bú qù. Qù yínháng qǔ qián.",
         "th": "ไม่ไป ฉันจะไปธนาคารถอนเงิน",
-        "bookPage": ""
+        "bookPage": "21",
+        "section": "明天见"
       },
       {
         "speaker": "A",
         "hanzi": "明天见！",
         "pinyin": "Míngtiān jiàn!",
         "th": "แล้วพบกันพรุ่งนี้!",
-        "bookPage": ""
+        "bookPage": "22",
+        "section": "明天见"
       },
       {
         "speaker": "B",
         "hanzi": "明天见！",
         "pinyin": "Míngtiān jiàn!",
         "th": "แล้วพบกันพรุ่งนี้!",
-        "bookPage": ""
+        "bookPage": "22",
+        "section": "明天见"
       }
     ],
     "grammar": [
@@ -278,6 +312,11 @@
             "pinyin": "Nǐ xué Yīngyǔ ma?",
             "th": "คุณเรียนภาษาอังกฤษไหม"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          14,
+          21
         ]
       },
       {
@@ -290,6 +329,10 @@
             "pinyin": "Bú qù.",
             "th": "ไม่ไป"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          21
         ]
       },
       {
@@ -302,6 +345,11 @@
             "pinyin": "Xué Hànyǔ.",
             "th": "เรียนภาษาจีน"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          21,
+          22
         ]
       }
     ]
@@ -354,63 +402,72 @@
         "hanzi": "今天星期几？",
         "pinyin": "Jīntiān xīngqī jǐ?",
         "th": "วันนี้วันอะไร",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "B",
         "hanzi": "今天星期二（一、三、四、五、六、天）。",
         "pinyin": "Jīntiān Xīngqī'èr (yī, sān, sì, wǔ, liù, tiān).",
         "th": "วันนี้วันอังคาร (จันทร์ พุธ พฤหัสบดี ศุกร์ เสาร์ อาทิตย์)",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "A",
         "hanzi": "你去哪儿？",
         "pinyin": "Nǐ qù nǎr?",
         "th": "คุณจะไปไหน",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "B",
         "hanzi": "我去天安门，你去不去？",
         "pinyin": "Wǒ qù Tiān'ān Mén, nǐ qù bu qù?",
         "th": "ฉันจะไปเทียนอันเหมิน คุณจะไปไหม",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "A",
         "hanzi": "不去，我回学校。",
         "pinyin": "Bú qù, wǒ huí xuéxiào.",
         "th": "ไม่ไป ฉันจะกลับโรงเรียน",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "B",
         "hanzi": "再见！",
         "pinyin": "Zàijiàn!",
         "th": "แล้วพบกันใหม่!",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "A",
         "hanzi": "再见！",
         "pinyin": "Zàijiàn!",
         "th": "แล้วพบกันใหม่!",
-        "bookPage": ""
+        "bookPage": "31",
+        "section": "今天星期几、你去哪儿"
       },
       {
         "speaker": "A",
         "hanzi": "对不起！",
         "pinyin": "Duìbuqǐ!",
         "th": "ขอโทษ!",
-        "bookPage": ""
+        "bookPage": "32",
+        "section": "对不起"
       },
       {
         "speaker": "B",
         "hanzi": "没关系！",
         "pinyin": "Méi guānxi!",
         "th": "ไม่เป็นไร!",
-        "bookPage": ""
+        "bookPage": "32",
+        "section": "对不起"
       }
     ],
     "grammar": [
@@ -424,6 +481,11 @@
             "pinyin": "Nǐ qù nǎr?",
             "th": "คุณจะไปไหน"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          31,
+          33
         ]
       },
       {
@@ -436,6 +498,12 @@
             "pinyin": "Jīntiān xīngqī jǐ?",
             "th": "วันนี้วันอะไร"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          31,
+          32,
+          33
         ]
       },
       {
@@ -448,6 +516,10 @@
             "pinyin": "Wǒ qù Tiān'ān Mén, nǐ qù bu qù?",
             "th": "ฉันจะไปเทียนอันเหมิน คุณจะไปไหม"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          31
         ]
       },
       {
@@ -460,6 +532,11 @@
             "pinyin": "Méi guānxi!",
             "th": "ไม่เป็นไร!"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          32,
+          33
         ]
       }
     ]
@@ -508,63 +585,72 @@
         "hanzi": "这是王老师，这是我爸爸。",
         "pinyin": "Zhè shì Wáng lǎoshī, zhè shì wǒ bàba.",
         "th": "นี่คือคุณครูหวัง และนี่คือพ่อของฉัน",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "B",
         "hanzi": "王老师，您好！",
         "pinyin": "Wáng lǎoshī, nín hǎo!",
         "th": "สวัสดีคุณครูหวัง!",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "C",
         "hanzi": "您好！请进！请坐！请喝茶！",
         "pinyin": "Nín hǎo! Qǐng jìn! Qǐng zuò! Qǐng hē chá!",
         "th": "สวัสดี! เชิญเข้ามา เชิญนั่ง เชิญดื่มชา!",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "B",
         "hanzi": "谢谢！",
         "pinyin": "Xièxie!",
         "th": "ขอบคุณ!",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "C",
         "hanzi": "不客气！",
         "pinyin": "Bú kèqi!",
         "th": "ไม่เป็นไร!",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "C",
         "hanzi": "工作忙吗？",
         "pinyin": "Gōngzuò máng ma?",
         "th": "งานยุ่งไหม",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "B",
         "hanzi": "不太忙。",
         "pinyin": "Bú tài máng.",
         "th": "ไม่ยุ่งมาก",
-        "bookPage": ""
+        "bookPage": "41",
+        "section": "介绍王老师"
       },
       {
         "speaker": "C",
         "hanzi": "身体好吗？",
         "pinyin": "Shēntǐ hǎo ma?",
         "th": "สุขภาพดีไหม",
-        "bookPage": ""
+        "bookPage": "42",
+        "section": "介绍王老师"
       },
       {
         "speaker": "B",
         "hanzi": "很好！",
         "pinyin": "Hěn hǎo!",
         "th": "สบายดีมาก!",
-        "bookPage": ""
+        "bookPage": "42",
+        "section": "介绍王老师"
       }
     ],
     "grammar": [
@@ -578,6 +664,11 @@
             "pinyin": "Zhè shì Wáng lǎoshī, zhè shì wǒ bàba.",
             "th": "นี่คือคุณครูหวัง และนี่คือพ่อของฉัน"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          41,
+          42
         ]
       },
       {
@@ -590,6 +681,11 @@
             "pinyin": "Nín hǎo! Qǐng jìn! Qǐng zuò! Qǐng hē chá!",
             "th": "สวัสดี! เชิญเข้ามา เชิญนั่ง เชิญดื่มชา!"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          41,
+          42
         ]
       },
       {
@@ -602,6 +698,11 @@
             "pinyin": "Wáng lǎoshī, nín hǎo!",
             "th": "สวัสดีคุณครูหวัง!"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          42,
+          45
         ]
       }
     ]
@@ -685,175 +786,200 @@
         "hanzi": "请问，你贵姓？",
         "pinyin": "Qǐngwèn, nǐ guìxìng?",
         "th": "ขอโทษ คุณนามสกุลอะไร",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "我姓张。",
         "pinyin": "Wǒ xìng Zhāng.",
         "th": "ฉันนามสกุลจาง",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "你叫什么名字？",
         "pinyin": "Nǐ jiào shénme míngzi?",
         "th": "คุณชื่ออะไร",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "我叫张东。",
         "pinyin": "Wǒ jiào Zhāng Dōng.",
         "th": "ฉันชื่อจางตง",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "你是哪国人？",
         "pinyin": "Nǐ shì nǎ guó rén?",
         "th": "คุณเป็นคนประเทศไหน",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "我是中国人。你是哪国人？",
         "pinyin": "Wǒ shì Zhōngguó rén. Nǐ shì nǎ guó rén?",
         "th": "ฉันเป็นคนจีน คุณเป็นคนประเทศไหน",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "我是美国人。",
         "pinyin": "Wǒ shì Měiguó rén.",
         "th": "ฉันเป็นคนอเมริกัน",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "认识你很高兴。",
         "pinyin": "Rènshi nǐ hěn gāoxìng.",
         "th": "ยินดีที่ได้รู้จัก",
-        "bookPage": ""
+        "bookPage": "51",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "认识你我也很高兴。",
         "pinyin": "Rènshi nǐ wǒ yě hěn gāoxìng.",
         "th": "ฉันก็ยินดีที่ได้รู้จักคุณเช่นกัน",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "你学习什么？",
         "pinyin": "Nǐ xuéxí shénme?",
         "th": "คุณเรียนอะไร",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "我学习汉语。",
         "pinyin": "Wǒ xuéxí Hànyǔ.",
         "th": "ฉันเรียนภาษาจีน",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "认识新朋友"
       },
       {
         "speaker": "张东",
         "hanzi": "汉语难吗？",
         "pinyin": "Hànyǔ nán ma?",
         "th": "ภาษาจีนยากไหม",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "认识新朋友"
       },
       {
         "speaker": "麦克",
         "hanzi": "发音不太难，汉字很难。",
         "pinyin": "Fāyīn bú tài nán, Hànzì hěn nán.",
         "th": "การออกเสียงไม่ยากมาก แต่อักษรจีนยากมาก",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "认识新朋友"
       },
       {
         "speaker": "A",
         "hanzi": "这是什么？",
         "pinyin": "Zhè shì shénme?",
         "th": "นี่คืออะไร",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "这是书。",
         "pinyin": "Zhè shì shū.",
         "th": "นี่คือหนังสือ",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "这是什么"
       },
       {
         "speaker": "A",
         "hanzi": "这是什么书？",
         "pinyin": "Zhè shì shénme shū?",
         "th": "นี่คือหนังสืออะไร",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "这是中文书。",
         "pinyin": "Zhè shì Zhōngwén shū.",
         "th": "นี่คือหนังสือภาษาจีน",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "这是什么"
       },
       {
         "speaker": "A",
         "hanzi": "这是谁的书？",
         "pinyin": "Zhè shì shéi de shū?",
         "th": "นี่คือหนังสือของใคร",
-        "bookPage": ""
+        "bookPage": "52",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "这是老师的书。",
         "pinyin": "Zhè shì lǎoshī de shū.",
         "th": "นี่คือหนังสือของครู",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "A",
         "hanzi": "那是什么？",
         "pinyin": "Nà shì shénme?",
         "th": "นั่นคืออะไร",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "那是杂志。",
         "pinyin": "Nà shì zázhì.",
         "th": "นั่นคือนิตยสาร",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "A",
         "hanzi": "那是什么杂志？",
         "pinyin": "Nà shì shénme zázhì?",
         "th": "นั่นคือนิตยสารอะไร",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "那是英文杂志。",
         "pinyin": "Nà shì Yīngwén zázhì.",
         "th": "นั่นคือนิตยสารภาษาอังกฤษ",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "A",
         "hanzi": "那是谁的杂志？",
         "pinyin": "Nà shì shéi de zázhì?",
         "th": "นั่นคือนิตยสารของใคร",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       },
       {
         "speaker": "B",
         "hanzi": "那是我朋友的杂志。",
         "pinyin": "Nà shì wǒ péngyou de zázhì.",
         "th": "นั่นคือนิตยสารของเพื่อนฉัน",
-        "bookPage": ""
+        "bookPage": "53",
+        "section": "这是什么"
       }
     ],
     "grammar": [
@@ -867,6 +993,10 @@
             "pinyin": "Qǐngwèn, nín shì Wáng lǎoshī ma?",
             "th": "ขอโทษ คุณคือครูหวังใช่ไหม"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          55
         ]
       },
       {
@@ -884,6 +1014,11 @@
             "pinyin": "Shàngguān Xuě",
             "th": "ซ่างกวนเสวี่ย: ซ่างกวนเป็นนามสกุลสองอักษร"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          55,
+          56
         ]
       },
       {
@@ -901,6 +1036,10 @@
             "pinyin": "Wǒ xìng Zhāng.",
             "th": "ฉันนามสกุลจาง"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          56
         ]
       },
       {
@@ -918,6 +1057,10 @@
             "pinyin": "míngzi",
             "th": "ชื่อ หนังสือทำเครื่องหมายเน้นพยางค์แรก"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          56
         ]
       },
       {
@@ -935,6 +1078,12 @@
             "pinyin": "Zhè shì lǎoshī de shū.",
             "th": "นี่คือหนังสือของครู"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          52,
+          53,
+          54
         ]
       }
     ]
@@ -1000,77 +1149,88 @@
         "hanzi": "中午你去哪儿吃饭？",
         "pinyin": "Zhōngwǔ nǐ qù nǎr chī fàn?",
         "th": "ตอนเที่ยงคุณจะไปกินข้าวที่ไหน",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "玛丽",
         "hanzi": "我去食堂。",
         "pinyin": "Wǒ qù shítáng.",
         "th": "ฉันจะไปโรงอาหาร",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "麦克",
         "hanzi": "你吃什么？",
         "pinyin": "Nǐ chī shénme?",
         "th": "คุณจะกินอะไร",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "玛丽",
         "hanzi": "我吃馒头。",
         "pinyin": "Wǒ chī mántou.",
         "th": "ฉันจะกินหมั่นโถว",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "麦克",
         "hanzi": "你要几个？",
         "pinyin": "Nǐ yào jǐ ge?",
         "th": "คุณเอากี่ลูก",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "玛丽",
         "hanzi": "一个。你也吃馒头吗？",
         "pinyin": "Yí ge. Nǐ yě chī mántou ma?",
         "th": "หนึ่งลูก คุณจะกินหมั่นโถวด้วยไหม",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "麦克",
         "hanzi": "我不吃馒头，我吃米饭。你喝什么？",
         "pinyin": "Wǒ bù chī mántou, wǒ chī mǐfàn. Nǐ hē shénme?",
         "th": "ฉันไม่กินหมั่นโถว ฉันจะกินข้าวสวย คุณจะดื่มอะไร",
-        "bookPage": ""
+        "bookPage": "62",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "玛丽",
         "hanzi": "我要一碗鸡蛋汤。你要吗？",
         "pinyin": "Wǒ yào yì wǎn jīdàntāng. Nǐ yào ma?",
         "th": "ฉันเอาซุปไข่หนึ่งชาม คุณเอาไหม",
-        "bookPage": ""
+        "bookPage": "63",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "麦克",
         "hanzi": "不要，我喝啤酒。",
         "pinyin": "Bú yào, wǒ hē píjiǔ.",
         "th": "ไม่เอา ฉันจะดื่มเบียร์",
-        "bookPage": ""
+        "bookPage": "63",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "玛丽",
         "hanzi": "这些是什么？",
         "pinyin": "Zhèxiē shì shénme?",
         "th": "เหล่านี้คืออะไร",
-        "bookPage": ""
+        "bookPage": "63",
+        "section": "在食堂吃饭"
       },
       {
         "speaker": "麦克",
         "hanzi": "这是饺子，这是包子，那是面条儿。",
         "pinyin": "Zhè shì jiǎozi, zhè shì bāozi, nà shì miàntiáor.",
         "th": "นี่คือเกี๊ยวจีน นี่คือซาลาเปา และนั่นคือบะหมี่",
-        "bookPage": ""
+        "bookPage": "63",
+        "section": "在食堂吃饭"
       }
     ],
     "grammar": [
@@ -1089,6 +1249,10 @@
             "pinyin": "yí ge mántou",
             "th": "หมั่นโถวหนึ่งลูก"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          64
         ]
       },
       {
@@ -1106,6 +1270,11 @@
             "pinyin": "Wǒ yào yì wǎn jīdàntāng.",
             "th": "ฉันเอาซุปไข่หนึ่งชาม"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          62,
+          63
         ]
       },
       {
@@ -1123,6 +1292,11 @@
             "pinyin": "Wǒ hē píjiǔ.",
             "th": "ฉันจะดื่มเบียร์"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          62,
+          63
         ]
       }
     ]
@@ -1193,91 +1367,104 @@
         "hanzi": "您好，您买什么？",
         "pinyin": "Nín hǎo, nín mǎi shénme?",
         "th": "สวัสดี คุณจะซื้ออะไร",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "我买水果。苹果一斤多少钱？",
         "pinyin": "Wǒ mǎi shuǐguǒ. Píngguǒ yì jīn duōshao qián?",
         "th": "ฉันจะซื้อผลไม้ แอปเปิลครึ่งกิโลราคาเท่าไร",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "六块。",
         "pinyin": "Liù kuài.",
         "th": "หกหยวน",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "六块？太贵了。便宜点儿吧。",
         "pinyin": "Liù kuài? Tài guì le. Piányi diǎnr ba.",
         "th": "หกหยวนหรือ แพงเกินไป ลดให้หน่อยได้ไหม",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "你要多少？",
         "pinyin": "Nǐ yào duōshao?",
         "th": "คุณเอาเท่าไร",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "来五个吧。",
         "pinyin": "Lái wǔ ge ba.",
         "th": "เอาห้าลูก",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "还要别的吗？",
         "pinyin": "Hái yào bié de ma?",
         "th": "เอาอย่างอื่นอีกไหม",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "橘子怎么卖？",
         "pinyin": "Júzi zěnme mài?",
         "th": "ส้มขายราคาเท่าไร",
-        "bookPage": ""
+        "bookPage": "70",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "八块。",
         "pinyin": "Bā kuài.",
         "th": "แปดหยวน",
-        "bookPage": ""
+        "bookPage": "71",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "要两斤吧。一共多少钱？",
         "pinyin": "Yào liǎng jīn ba. Yígòng duōshao qián?",
         "th": "เอาหนึ่งกิโล รวมทั้งหมดเท่าไร",
-        "bookPage": ""
+        "bookPage": "71",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "一共二十一块三（毛）。你给二十一吧。",
         "pinyin": "Yígòng èrshíyī kuài sān (máo). Nǐ gěi èrshíyī ba.",
         "th": "รวมยี่สิบเอ็ดหยวนสามเหมา จ่ายยี่สิบเอ็ดหยวนก็พอ",
-        "bookPage": ""
+        "bookPage": "71",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "B",
         "hanzi": "好。给你钱。",
         "pinyin": "Hǎo. Gěi nǐ qián.",
         "th": "ตกลง นี่เงิน",
-        "bookPage": ""
+        "bookPage": "71",
+        "section": "买苹果和橘子"
       },
       {
         "speaker": "A",
         "hanzi": "这是五十，找您二十九块。",
         "pinyin": "Zhè shì wǔshí, zhǎo nín èrshíjiǔ kuài.",
         "th": "นี่ห้าสิบหยวน ทอนให้คุณยี่สิบเก้าหยวน",
-        "bookPage": ""
+        "bookPage": "71",
+        "section": "买苹果和橘子"
       }
     ],
     "grammar": [
@@ -1296,6 +1483,11 @@
             "pinyin": "Nǐ gěi èrshíyī ba.",
             "th": "จ่ายยี่สิบเอ็ดหยวนก็พอ"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          72,
+          73
         ]
       },
       {
@@ -1313,6 +1505,10 @@
             "pinyin": "liǎng jīn júzi",
             "th": "ส้มสองจิน หรือหนึ่งกิโลกรัม"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          73
         ]
       },
       {
@@ -1330,6 +1526,10 @@
             "pinyin": "liúxuéshēng",
             "th": "นักศึกษาต่างชาติ ตัวอย่างการออกเสียงนี้เน้นพยางค์ท้าย"
           }
+        ],
+        "source": "book-note",
+        "bookPages": [
+          73
         ]
       },
       {
@@ -1347,6 +1547,11 @@
             "pinyin": "Tài guì le, piányi diǎnr ba.",
             "th": "แพงเกินไป ลดให้หน่อยได้ไหม"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          70,
+          72
         ]
       },
       {
@@ -1364,6 +1569,11 @@
             "pinyin": "Zhǎo nín èrshíjiǔ kuài.",
             "th": "ทอนให้คุณยี่สิบเก้าหยวน"
           }
+        ],
+        "source": "dialogue-pattern",
+        "bookPages": [
+          71,
+          72
         ]
       }
     ]
