@@ -3151,5 +3151,20 @@
     "pos": "量 (ลักษณนาม)",
     "bookPage": "72",
     "pdfPage": "101"
+  },
+  {
+    "id": "v209",
+    "hanzi": "泰语",
+    "pinyin": "Tàiyǔ",
+    "pinyinNum": "tai4 yu3",
+    "th": "ภาษาไทย",
+    "en": "Thai (language)",
+    "category": "phrase",
+    "lessons": [
+      3
+    ],
+    "pos": "名 (ชื่อภาษา)",
+    "bookPage": "23",
+    "pdfPage": "49"
   }
 ]
