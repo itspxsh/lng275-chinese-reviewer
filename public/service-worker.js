@@ -1,4 +1,4 @@
-const CACHE='lng275-review-v5';
+const CACHE='lng275-review-v6';
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);
  const home=await fetch('/',{cache:'no-store'});

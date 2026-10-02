@@ -5,6 +5,7 @@ import {bookExercises} from '@/data/book-exercises';
 import readingPhrases from '@/data/reading-phrases.json';
 import {vocab} from '@/data/vocab';
 import {extraVocab} from '@/data/extra';
+import {bookVocabForLesson} from '@/data/book-vocab';
 import type {BookExerciseSection,BookExerciseQuestion,Lesson} from '@/data/types';
 import StrokeBox from './StrokeBox';
 
@@ -19,7 +20,7 @@ function choicesFor(answer:string,pool:string[],id:string){const choices=unique(
 
 export default function BookExercises({lesson,speakText}:{lesson:Lesson;speakText:(text:string)=>void}){
  const sections=bookExercises.filter(section=>section.lessonId===lesson.id);
- const words=useMemo(()=>vocab.filter(word=>word.lessons.includes(lesson.id)&&word.category==='core'),[lesson.id]);
+ const words=useMemo(()=>bookVocabForLesson(lesson),[lesson]);
  const [selected,setSelected]=useState<Record<string,string>>({});
  const [activeStroke,setActiveStroke]=useState<Record<string,string>>({});
  const [showRetell,setShowRetell]=useState<Record<string,boolean>>({});

@@ -1,10 +1,21 @@
 import { readFileSync,existsSync } from 'node:fs';
 const read=<T>(p:string)=>JSON.parse(readFileSync(new URL(p,import.meta.url),'utf8')) as T;
-type V={id:string;hanzi:string;pinyin:string;pinyinNum?:string;th:string;en:string;lessons:number[]};
+type V={id:string;hanzi:string;pinyin:string;pinyinNum?:string;th:string;en:string;lessons:number[];bookPage?:string;pdfPage?:string};
 const words=read<V[]>('../src/data/vocab.json');const lessons=read<{id:number;vocabIds:string[];dialogue:{hanzi:string;pinyin:string;th:string;bookPage?:string;section?:string}[];grammar:{source?:string;bookPages?:number[]}[]}[]>('../src/data/lessons.json');
-const errors:string[]=[];if(words.length!==204)errors.push(`expected 204 main vocabulary entries, received ${words.length}`);
+const errors:string[]=[];if(words.length!==208)errors.push(`expected 208 source vocabulary records, received ${words.length}`);
 const ids=new Set<string>();for(const w of words){if(ids.has(w.id))errors.push(`duplicate id ${w.id}`);ids.add(w.id);for(const k of ['hanzi','pinyin','th','en'] as const)if(!w[k]?.trim())errors.push(`${w.id} missing ${k}`);if(w.lessons.some(n=>n<1||n>8))errors.push(`${w.id} has a lesson outside 1–8`)}
-for(const l of lessons)for(const id of l.vocabIds)if(!ids.has(id))errors.push(`lesson ${l.id} references missing vocab ${id}`);
+const bookCounts=[12,15,23,22,17,32,23,26];const bookIds=new Set<string>();const bookHanzi=new Set<string>();
+for(const l of lessons){
+ if(l.vocabIds.length!==bookCounts[l.id-1])errors.push(`lesson ${l.id} New Words count is ${l.vocabIds.length}`);
+ for(const id of l.vocabIds){
+  const word=words.find(item=>item.id===id);
+  if(!word){errors.push(`lesson ${l.id} references missing vocab ${id}`);continue}
+  if(bookIds.has(id)||bookHanzi.has(word.hanzi))errors.push(`duplicate textbook word ${word.hanzi} in lesson ${l.id}`);
+  bookIds.add(id);bookHanzi.add(word.hanzi);
+  if(id!=='v205'&&(!word.bookPage||!word.pdfPage))errors.push(`${id} lacks its New Words page`);
+ }
+}
+if(bookIds.size!==170)errors.push(`expected 170 ordered review entries, received ${bookIds.size}`);
 type Section={id:string;lessonId:number;number:number;kind:string;titleZh:string;titleTh:string;bookPages:number[];bookChars?:string;readingHanzi?:string[];questions?:{hanzi:string;pinyin:string;th:string;answerHanzi:string;answerPinyin:string;answerTh:string}[];retell?:{hanzi:string;pinyin:string;th:string};pictures?:{cue:string;hanzi:string;pinyin:string;th:string}[]};
 const sections=read<Section[]>('../src/data/book-exercises.json');
 const readingPhrases=read<Record<string,{pinyin:string;th:string}>>('../src/data/reading-phrases.json');

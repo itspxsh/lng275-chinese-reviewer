@@ -13,8 +13,8 @@
       4
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "51",
-    "pdfPage": "77",
+    "bookPage": "1",
+    "pdfPage": "27",
     "pinyinNum": "ni3"
   },
   {
@@ -61,8 +61,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "85, 89",
-    "pdfPage": "111, 115",
+    "bookPage": "1",
+    "pdfPage": "27",
     "pinyinNum": "yi1"
   },
   {
@@ -94,8 +94,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "1",
+    "pdfPage": "27",
     "pinyinNum": "ba1"
   },
   {
@@ -129,8 +129,8 @@
       7
     ],
     "pos": "副 (คำวิเศษณ์)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "1",
+    "pdfPage": "27",
     "pinyinNum": "bu4"
   },
   {
@@ -189,8 +189,8 @@
       1
     ],
     "pos": "名 (คำนาม)",
-    "bookPage": "95",
-    "pdfPage": "123",
+    "bookPage": "2",
+    "pdfPage": "28",
     "pinyinNum": "ma3"
   },
   {
@@ -222,8 +222,8 @@
       5
     ],
     "pos": "助 (คำช่วย)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "14",
+    "pdfPage": "40",
     "pinyinNum": "ma5"
   },
   {
@@ -238,8 +238,8 @@
       5
     ],
     "pos": "副 (คำวิเศษณ์)",
-    "bookPage": "51",
-    "pdfPage": "77",
+    "bookPage": "14",
+    "pdfPage": "40",
     "pinyinNum": "hen3"
   },
   {
@@ -255,8 +255,8 @@
       6
     ],
     "pos": "名 (คำนาม)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "14",
+    "pdfPage": "40",
     "pinyinNum": "han4 yu3"
   },
   {
@@ -271,8 +271,8 @@
       6
     ],
     "pos": "形 (คำคุณศัพท์)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "14",
+    "pdfPage": "40",
     "pinyinNum": "nan2"
   },
   {
@@ -288,8 +288,8 @@
       6
     ],
     "pos": "副 (คำวิเศษณ์)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "15",
+    "pdfPage": "41",
     "pinyinNum": "tai4"
   },
   {
@@ -334,8 +334,8 @@
       2
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "15",
+    "pdfPage": "41",
     "pinyinNum": "ta1"
   },
   {
@@ -561,8 +561,8 @@
       7
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "62",
-    "pdfPage": "88",
+    "bookPage": "22",
+    "pdfPage": "48",
     "pinyinNum": "qu4"
   },
   {
@@ -651,8 +651,8 @@
       3
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "21, 22",
-    "pdfPage": "47, 48",
+    "bookPage": "22",
+    "pdfPage": "48",
     "pinyinNum": "qu3"
   },
   {
@@ -730,8 +730,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "23",
+    "pdfPage": "49",
     "pinyinNum": "liu4"
   },
   {
@@ -745,8 +745,8 @@
       3
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "23",
+    "pdfPage": "49",
     "pinyinNum": "qi1"
   },
   {
@@ -761,8 +761,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "23",
+    "pdfPage": "49",
     "pinyinNum": "jiu3"
   },
   {
@@ -940,8 +940,8 @@
       4
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "62",
-    "pdfPage": "88",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "ji3"
   },
   {
@@ -956,8 +956,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "er4"
   },
   {
@@ -972,8 +972,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "san1"
   },
   {
@@ -987,8 +987,8 @@
       4
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "si4"
   },
   {
@@ -1003,8 +1003,8 @@
       7
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "nar3"
   },
   {
@@ -1037,8 +1037,8 @@
       8
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "51",
-    "pdfPage": "77",
+    "bookPage": "33",
+    "pdfPage": "59",
     "pinyinNum": "wo3"
   },
   {
@@ -1140,8 +1140,8 @@
       5
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "zhe4"
   },
   {
@@ -1158,8 +1158,8 @@
       8
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "51",
-    "pdfPage": "77",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "shi4"
   },
   {
@@ -1173,8 +1173,8 @@
       5
     ],
     "pos": "名 (คำนาม)",
-    "bookPage": "53",
-    "pdfPage": "79",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "lao3 shi1"
   },
   {
@@ -1188,8 +1188,8 @@
       5
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "nin2"
   },
   {
@@ -1203,8 +1203,8 @@
       5
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "78",
-    "pdfPage": "104",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "qing3"
   },
   {
@@ -1248,8 +1248,8 @@
       5
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "62",
-    "pdfPage": "88",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "he1"
   },
   {
@@ -1278,8 +1278,8 @@
       5
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "xie4 xie5"
   },
   {
@@ -1292,8 +1292,8 @@
     "lessons": [
       5
     ],
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "bu2 ke4 qi5"
   },
   {
@@ -1368,8 +1368,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "85",
-    "pdfPage": "111",
+    "bookPage": "42",
+    "pdfPage": "68",
     "pinyinNum": "shi2"
   },
   {
@@ -1413,7 +1413,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "qing3 wen4"
   },
   {
@@ -1428,7 +1428,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "gui4 xing4"
   },
   {
@@ -1443,7 +1443,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "jiao4"
   },
   {
@@ -1458,7 +1458,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "ming2 zi5"
   },
   {
@@ -1473,7 +1473,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "na3"
   },
   {
@@ -1488,7 +1488,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "guo2"
   },
   {
@@ -1503,7 +1503,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "ren2"
   },
   {
@@ -1518,7 +1518,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "ren4 shi5"
   },
   {
@@ -1533,7 +1533,7 @@
     ],
     "pos": "形 (คำคุณศัพท์)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "gao1 xing4"
   },
   {
@@ -1548,7 +1548,7 @@
     ],
     "pos": "副 (คำวิเศษณ์)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "ye3"
   },
   {
@@ -1563,7 +1563,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "xue2 xi2"
   },
   {
@@ -1580,7 +1580,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "shen2 me5"
   },
   {
@@ -1595,7 +1595,7 @@
     ],
     "pos": "名 (คำนาม)、动 (คำกริยา)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "fa1 yin1"
   },
   {
@@ -1610,7 +1610,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "han4 zi4"
   },
   {
@@ -1625,7 +1625,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "shu1"
   },
   {
@@ -1640,7 +1640,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "shei2"
   },
   {
@@ -1655,7 +1655,7 @@
     ],
     "pos": "助 (คำช่วย)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "de5"
   },
   {
@@ -1671,7 +1671,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "na4"
   },
   {
@@ -1686,7 +1686,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "za2 zhi4"
   },
   {
@@ -1700,7 +1700,7 @@
       6
     ],
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "wen2"
   },
   {
@@ -1715,7 +1715,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "peng2 you5"
   },
   {
@@ -1730,7 +1730,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "wen4"
   },
   {
@@ -1745,7 +1745,7 @@
     ],
     "pos": "动 (คำกริยา)、名 (คำนาม)",
     "bookPage": "53",
-    "pdfPage": "79",
+    "pdfPage": "81",
     "pinyinNum": "xing4"
   },
   {
@@ -1760,7 +1760,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "zhong1 wen2"
   },
   {
@@ -1775,7 +1775,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "a1 la1 bo2 wen2"
   },
   {
@@ -1790,7 +1790,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "de2 wen2"
   },
   {
@@ -1805,7 +1805,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "e2 wen2"
   },
   {
@@ -1820,7 +1820,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "fa3 wen2"
   },
   {
@@ -1835,7 +1835,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "han2 wen2"
   },
   {
@@ -1850,7 +1850,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "ri4 wen2"
   },
   {
@@ -1865,7 +1865,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "xi1 ban1 ya2 wen2"
   },
   {
@@ -1880,7 +1880,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "54",
-    "pdfPage": "80",
+    "pdfPage": "82",
     "pinyinNum": "ying1 wen2"
   },
   {
@@ -2176,8 +2176,8 @@
       8
     ],
     "pos": "数 (คำบอกจำนวน)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "72",
+    "pdfPage": "101",
     "pinyinNum": "liang3"
   },
   {
@@ -2192,8 +2192,8 @@
       7
     ],
     "pos": "量 (ลักษณนาม)",
-    "bookPage": "52",
-    "pdfPage": "78",
+    "bookPage": "63",
+    "pdfPage": "91",
     "pinyinNum": "ge4"
   },
   {
@@ -2223,7 +2223,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "zhong1 wu3"
   },
   {
@@ -2238,7 +2238,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "chi1"
   },
   {
@@ -2253,7 +2253,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "fan4"
   },
   {
@@ -2268,7 +2268,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "shi2 tang2"
   },
   {
@@ -2283,7 +2283,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "man2 tou5"
   },
   {
@@ -2299,7 +2299,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "yao4"
   },
   {
@@ -2314,7 +2314,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "mi3 fan4"
   },
   {
@@ -2329,7 +2329,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "wan3"
   },
   {
@@ -2344,7 +2344,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "ji1 dan4"
   },
   {
@@ -2359,7 +2359,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "tang1"
   },
   {
@@ -2374,7 +2374,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "pi2 jiu3"
   },
   {
@@ -2389,7 +2389,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "zhe4 xie1"
   },
   {
@@ -2404,7 +2404,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "jiao3 zi5"
   },
   {
@@ -2419,7 +2419,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "bao1 zi5"
   },
   {
@@ -2434,7 +2434,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "mian4 tiao2r"
   },
   {
@@ -2449,7 +2449,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "mi3"
   },
   {
@@ -2464,7 +2464,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "ji1"
   },
   {
@@ -2479,7 +2479,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "63",
-    "pdfPage": "89",
+    "pdfPage": "91",
     "pinyinNum": "dan4"
   },
   {
@@ -2494,7 +2494,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "jiu3"
   },
   {
@@ -2509,7 +2509,7 @@
     ],
     "pos": "量 (ลักษณนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "xie1"
   },
   {
@@ -2524,7 +2524,7 @@
     ],
     "pos": "数量 (คำบอกจำนวนและปริมาณ)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "yi4 xie1"
   },
   {
@@ -2539,7 +2539,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "64",
-    "pdfPage": "90",
+    "pdfPage": "92",
     "pinyinNum": "na4 xie1"
   },
   {
@@ -2658,7 +2658,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "mai3"
   },
   {
@@ -2673,7 +2673,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "shui3 guo3"
   },
   {
@@ -2688,7 +2688,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "ping2 guo3"
   },
   {
@@ -2703,7 +2703,7 @@
     ],
     "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "jin1"
   },
   {
@@ -2717,8 +2717,8 @@
       8
     ],
     "pos": "代 (สรรพนาม)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "71",
+    "pdfPage": "100",
     "pinyinNum": "duo1 shao5"
   },
   {
@@ -2748,7 +2748,7 @@
     ],
     "pos": "形 (คำคุณศัพท์)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "gui4"
   },
   {
@@ -2762,7 +2762,7 @@
       8
     ],
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "tai4 le5"
   },
   {
@@ -2777,7 +2777,7 @@
     ],
     "pos": "形 (คำคุณศัพท์)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "pian2 yi5"
   },
   {
@@ -2791,8 +2791,8 @@
       8
     ],
     "pos": "量 (ลักษณนาม)",
-    "bookPage": "",
-    "pdfPage": "",
+    "bookPage": "72",
+    "pdfPage": "101",
     "pinyinNum": "yi4 dian3r"
   },
   {
@@ -2807,7 +2807,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "lai2"
   },
   {
@@ -2822,7 +2822,7 @@
     ],
     "pos": "助 (คำช่วย)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "ba5"
   },
   {
@@ -2837,7 +2837,7 @@
     ],
     "pos": "副 (คำวิเศษณ์)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "hai2"
   },
   {
@@ -2851,7 +2851,7 @@
       8
     ],
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "bie2 de5"
   },
   {
@@ -2866,7 +2866,7 @@
     ],
     "pos": "名 (คำนาม)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "ju2 zi5"
   },
   {
@@ -2881,7 +2881,7 @@
     ],
     "pos": "代 (สรรพนาม)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "zen3 me5"
   },
   {
@@ -2896,7 +2896,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "mai4"
   },
   {
@@ -2911,7 +2911,7 @@
     ],
     "pos": "副 (คำวิเศษณ์)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "yi2 gong4"
   },
   {
@@ -2926,7 +2926,7 @@
     ],
     "pos": "动 (คำกริยา)",
     "bookPage": "72",
-    "pdfPage": "98",
+    "pdfPage": "101",
     "pinyinNum": "gei3"
   },
   {
@@ -2940,8 +2940,8 @@
       8
     ],
     "pos": "动 (คำกริยา)",
-    "bookPage": "86",
-    "pdfPage": "112",
+    "bookPage": "72",
+    "pdfPage": "101",
     "pinyinNum": "zhao3"
   },
   {
@@ -2956,7 +2956,7 @@
     ],
     "pos": "量 (ลักษณนาม)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "gong1 jin1"
   },
   {
@@ -2970,8 +2970,8 @@
       8
     ],
     "pos": "形 (คำคุณศัพท์)",
-    "bookPage": "",
-    "pdfPage": "",
+    "bookPage": "71",
+    "pdfPage": "100",
     "pinyinNum": "duo1"
   },
   {
@@ -2986,7 +2986,7 @@
     ],
     "pos": "形 (คำคุณศัพท์)",
     "bookPage": "71",
-    "pdfPage": "97",
+    "pdfPage": "100",
     "pinyinNum": "shao3"
   },
   {
@@ -3015,8 +3015,8 @@
       8
     ],
     "pos": "量 (ลักษณนาม)",
-    "bookPage": "72",
-    "pdfPage": "98",
+    "bookPage": "71",
+    "pdfPage": "100",
     "pinyinNum": "fen1"
   },
   {
@@ -3093,5 +3093,63 @@
     "bookPage": "52",
     "pdfPage": "78",
     "pinyinNum": "ge4"
+  },
+  {
+    "id": "v205",
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "pinyinNum": "jie3 jie5",
+    "th": "พี่สาว",
+    "en": "older sister",
+    "category": "extra",
+    "lessons": [
+      2
+    ],
+    "pos": "名 (คำนาม) · เพิ่มเติม"
+  },
+  {
+    "id": "v206",
+    "hanzi": "块（元）",
+    "pinyin": "kuài (yuán)",
+    "pinyinNum": "kuai4 (yuan2)",
+    "th": "หน่วยเงินหยวน",
+    "en": "kuai (yuan); basic unit of money",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量 (หน่วยเงิน)",
+    "bookPage": "71",
+    "pdfPage": "100"
+  },
+  {
+    "id": "v207",
+    "hanzi": "角（毛）",
+    "pinyin": "jiǎo (máo)",
+    "pinyinNum": "jiao3 (mao2)",
+    "th": "หนึ่งในสิบหยวน",
+    "en": "jiao (mao); one tenth of a yuan",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量 (หน่วยเงิน)",
+    "bookPage": "71",
+    "pdfPage": "100"
+  },
+  {
+    "id": "v208",
+    "hanzi": "（一）点儿",
+    "pinyin": "(yì)diǎnr",
+    "pinyinNum": "(yi4) dian3r",
+    "th": "เล็กน้อย; นิดหน่อย",
+    "en": "a little; a bit",
+    "category": "core",
+    "lessons": [
+      8
+    ],
+    "pos": "量 (ลักษณนาม)",
+    "bookPage": "72",
+    "pdfPage": "101"
   }
 ]
